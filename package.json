@@ -60,7 +60,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -2335,6 +2336,153 @@
               "2",
               "[@tdgunes](https://github.com/tdgunes)/[**tdgsync**](https://github.com/tdgunes/tdgsync)",
               "Tracks your computer's internet ip, syncs it to a defined ftp server if anything changes. And also sends tweets about your computer's status! ",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "79",
+              "[@marjinal1st](https://github.com/marjinal1st)/[**medium-editor-rails**](https://github.com/marjinal1st/medium-editor-rails)",
+              "Medium Editor integrated in Rails Asset Pipeline",
+              ""
+            ],
+            [
+              "56",
+              "[@emrekutlu](https://github.com/emrekutlu)/[**paperclip-compressio…**](https://github.com/emrekutlu/paperclip-compression)",
+              "image compression processor for Paperclip",
+              ""
+            ],
+            [
+              "52",
+              "[@sbagdat](https://github.com/sbagdat)/[**turkish_support**](https://github.com/sbagdat/turkish_support)",
+              "Turkish character support for core ruby methods. ",
+              ""
+            ],
+            [
+              "48",
+              "[@askn](https://github.com/askn)/[**tisikkirlir**](https://github.com/askn/tisikkirlir)",
+              "",
+              ""
+            ],
+            [
+              "25",
+              "[@emrekutlu](https://github.com/emrekutlu)/[**notify_bar**](https://github.com/emrekutlu/notify_bar)",
+              "A twitter like notification bar using jQuery for Ruby on Rails",
+              ""
+            ],
+            [
+              "19",
+              "[@jballanc](https://github.com/jballanc)/[**shoes-tmbundle**](https://github.com/jballanc/shoes-tmbundle)",
+              "A tiny TextMate bundle for the tiny toolkit",
+              ""
+            ],
+            [
+              "15",
+              "[@enderahmetyurt](https://github.com/enderahmetyurt)/[**bilisim_sozlugu**](https://github.com/enderahmetyurt/bilisim_sozlugu)",
+              "Translating computer words from English to Turkish",
+              ""
+            ],
+            [
+              "15",
+              "[@enderahmetyurt](https://github.com/enderahmetyurt)/[**turkish_banks**](https://github.com/enderahmetyurt/turkish_banks)",
+              "All Turkish Banks and Their Branches",
+              ""
+            ],
+            [
+              "15",
+              "[@seyhunak](https://github.com/seyhunak)/[**docker-rails**](https://github.com/seyhunak/docker-rails)",
+              "Easy usable, complete docker configuration for rails applications. Less configuration, all-in-one stack.",
+              ""
+            ],
+            [
+              "13",
+              "[@sbagdat](https://github.com/sbagdat)/[**rubykitabi**](https://github.com/sbagdat/rubykitabi)",
+              "Ruby Kitabı - Örnek Kod Deposu",
+              ""
+            ],
+            [
+              "8",
+              "[@emrekutlu](https://github.com/emrekutlu)/[**discover_oembeds**](https://github.com/emrekutlu/discover_oembeds)",
+              "A Ruby on Rails plugin which discovers oembeds in your models and saves them to database.",
+              ""
+            ],
+            [
+              "8",
+              "[@muratguzel](https://github.com/muratguzel)/[**varyemez**](https://github.com/muratguzel/varyemez)",
+              "Varyemez Kişisel Finans Takip Yazılımı",
+              ""
+            ],
+            [
+              "5",
+              "[@seyhunak](https://github.com/seyhunak)/[**jquery-bootstrap-rai…**](https://github.com/seyhunak/jquery-bootstrap-rails)",
+              "JQuery Bootstrap for Rails 3.1 Asset Pipeline",
+              "[:arrow_upper_right:](https://github.com/seyhunak/jquery-bootstrap-rails)"
+            ],
+            [
+              "3",
+              "[@tukan](https://github.com/tukan)/[**acts_as_premoderatab…**](https://github.com/tukan/acts_as_premoderatable)",
+              "This act gives an Active Record model the ability to act as a premoderatable document.",
+              ""
+            ],
+            [
+              "3",
+              "[@jballanc](https://github.com/jballanc)/[**Evolver**](https://github.com/jballanc/Evolver)",
+              "A toy model of simple single celled evolution",
+              ""
+            ],
+            [
+              "3",
+              "[@muratguzel](https://github.com/muratguzel)/[**tckimlikdogrulama**](https://github.com/muratguzel/tckimlikdogrulama)",
+              "TC Kimlik Numarası Doğrulama",
+              "[:arrow_upper_right:](https://rubygems.org/gems/tckimlikdogrulama)"
+            ],
+            [
+              "3",
+              "[@ozgun](https://github.com/ozgun)/[**oktest**](https://github.com/ozgun/oktest)",
+              "testing..",
+              ""
+            ],
+            [
+              "2",
+              "[@ozgun](https://github.com/ozgun)/[**social_icons**](https://github.com/ozgun/social_icons)",
+              "A rails plugins to display social network icons easily in your web applications.",
+              ""
+            ],
+            [
+              "2",
+              "[@ozgun](https://github.com/ozgun)/[**railsmovies**](https://github.com/ozgun/railsmovies)",
+              "a simple rails based move database",
+              ""
+            ],
+            [
+              "2",
+              "[@hamitturkukaya](https://github.com/hamitturkukaya)/[**exchangeservice**](https://github.com/hamitturkukaya/exchangeservice)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ismailakbudak](https://github.com/ismailakbudak)/[**sql-query**](https://github.com/ismailakbudak/sql-query)",
+              "Advanced relational model and sql-query example with Ruby on Rails",
+              ""
+            ],
+            [
+              "2",
+              "[@askn](https://github.com/askn)/[**code**](https://github.com/askn/code)",
+              "my code",
               ""
             ]
           ]
