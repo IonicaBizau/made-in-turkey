@@ -54,7 +54,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -1261,6 +1262,39 @@
               "2",
               "[@otsimo](https://github.com/otsimo)/[**distribution**](https://github.com/otsimo/distribution)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@aycanirican](https://github.com/aycanirican)/[**hlibev**](https://github.com/aycanirican/hlibev)",
+              "FFI interface to libev",
+              ""
+            ],
+            [
+              "8",
+              "[@aycanirican](https://github.com/aycanirican)/[**hweblib**](https://github.com/aycanirican/hweblib)",
+              "Haskell Web Library",
+              ""
+            ],
+            [
+              "3",
+              "[@picussecurity](https://github.com/picussecurity)/[**haskell-cef**](https://github.com/picussecurity/haskell-cef)",
+              "This library is used to produce CEF log lines",
               ""
             ]
           ]
