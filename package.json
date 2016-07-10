@@ -59,7 +59,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -1755,6 +1756,585 @@
               "2",
               "[@o](https://github.com/o)/[**metric-collector**](https://github.com/o/metric-collector)",
               "Library for collecting local and remote system performance statistics",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2531",
+              "[@emre](https://github.com/emre)/[**storm**](https://github.com/emre/storm)",
+              "Manage your SSH like a boss.",
+              "[:arrow_upper_right:](http://stormssh.readthedocs.org/en/master/)"
+            ],
+            [
+              "377",
+              "[@kadirpekel](https://github.com/kadirpekel)/[**hammock**](https://github.com/kadirpekel/hammock)",
+              "rest like a boss",
+              "[:arrow_upper_right:](kadirpekel.github.com/hammock)"
+            ],
+            [
+              "234",
+              "[@emre](https://github.com/emre)/[**kaptan**](https://github.com/emre/kaptan)",
+              "configuration manager in your pocket.",
+              "[:arrow_upper_right:](https://kaptan.readthedocs.io)"
+            ],
+            [
+              "188",
+              "[@emre](https://github.com/emre)/[**django-stackoverflow…**](https://github.com/emre/django-stackoverflow-trace)",
+              "Django error page w/ a stackoverflow search link.",
+              ""
+            ],
+            [
+              "168",
+              "[@emre](https://github.com/emre)/[**redis-router**](https://github.com/emre/redis-router)",
+              "A redis sharding library/api for your sharding needs.",
+              "[:arrow_upper_right:](http://emre.github.io/redis-router/)"
+            ],
+            [
+              "144",
+              "[@kadirpekel](https://github.com/kadirpekel)/[**komandr**](https://github.com/kadirpekel/komandr)",
+              "Coolest command-line interface on this planet",
+              ""
+            ],
+            [
+              "120",
+              "[@emre](https://github.com/emre)/[**macster**](https://github.com/emre/macster)",
+              "You're in a starbucks thinking about to build the next killer-app with node.js and mongodb but you don't have a mac? ",
+              "[:arrow_upper_right:](http://emre.github.io/macster/)"
+            ],
+            [
+              "85",
+              "[@halitalptekin](https://github.com/halitalptekin)/[**doorman**](https://github.com/halitalptekin/doorman)",
+              "Keeps your secret things",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/doorman)"
+            ],
+            [
+              "76",
+              "[@emre](https://github.com/emre)/[**relationships**](https://github.com/emre/relationships)",
+              "redis backed user relationships on its simplest form.",
+              ""
+            ],
+            [
+              "70",
+              "[@BYK](https://github.com/BYK)/[**pyresto**](https://github.com/BYK/pyresto)",
+              "A generic ORM framework for RESTful APIs",
+              "[:arrow_upper_right:](http://pyresto.readthedocs.org)"
+            ],
+            [
+              "68",
+              "[@doganaydin](https://github.com/doganaydin)/[**themoviedb**](https://github.com/doganaydin/themoviedb)",
+              "themoviedb.org wrapper for api v3",
+              "[:arrow_upper_right:](http://doganaydin.org/2012/02/20/themoviedb-org-python-wrapper-updated/)"
+            ],
+            [
+              "55",
+              "[@eoyilmaz](https://github.com/eoyilmaz)/[**stalker**](https://github.com/eoyilmaz/stalker)",
+              "Production Asset Management System",
+              ""
+            ],
+            [
+              "53",
+              "[@ybrs](https://github.com/ybrs)/[**pydisque**](https://github.com/ybrs/pydisque)",
+              "disque python client",
+              ""
+            ],
+            [
+              "50",
+              "[@emre](https://github.com/emre)/[**storm-indicator**](https://github.com/emre/storm-indicator)",
+              "SSH shortcut menu for ubuntu. (NO LONGER MAINTAINED.)",
+              ""
+            ],
+            [
+              "44",
+              "[@ybrs](https://github.com/ybrs)/[**single-beat**](https://github.com/ybrs/single-beat)",
+              "ensures only one instance of your process across your servers",
+              ""
+            ],
+            [
+              "42",
+              "[@ozcanesen](https://github.com/ozcanesen)/[**terra-terminal**](https://github.com/ozcanesen/terra-terminal)",
+              "Terra is a GTK+3.0 based terminal emulator with useful user interface, it also supports multiple terminals with splitting screen horizontally or vertically. New features will be added soon. It's very new and experimental project, if you want to contribute just checkout and try.",
+              ""
+            ],
+            [
+              "38",
+              "[@kozdincer](https://github.com/kozdincer)/[**binali**](https://github.com/kozdincer/binali)",
+              "/bin/ali is a script which echo well-known quotes from binali.",
+              ""
+            ],
+            [
+              "35",
+              "[@eoyilmaz](https://github.com/eoyilmaz)/[**anima**](https://github.com/eoyilmaz/anima)",
+              "VFX & Animation Pipeline Library",
+              ""
+            ],
+            [
+              "34",
+              "[@emre](https://github.com/emre)/[**lurker**](https://github.com/emre/lurker)",
+              "a tiny wrapper for mySQLDB",
+              "[:arrow_upper_right:](http://emre.github.io/lurker/)"
+            ],
+            [
+              "34",
+              "[@emre](https://github.com/emre)/[**PharmacyOnDuty**](https://github.com/emre/PharmacyOnDuty)",
+              "Pharmacy *on duty* api for Istanbul.",
+              "[:arrow_upper_right:](http://pharmacy.emre.sh/api/v1/istanbul/)"
+            ],
+            [
+              "33",
+              "[@emre](https://github.com/emre)/[**fb.py**](https://github.com/emre/fb.py)",
+              "facebook development kit for Django",
+              ""
+            ],
+            [
+              "30",
+              "[@emre](https://github.com/emre)/[**lama**](https://github.com/emre/lama)",
+              "a linux/mac app to take screenshots and upload to imgur.",
+              ""
+            ],
+            [
+              "30",
+              "[@halitalptekin](https://github.com/halitalptekin)/[**python-for-hackers**](https://github.com/halitalptekin/python-for-hackers)",
+              "Python for hackers workshop",
+              ""
+            ],
+            [
+              "28",
+              "[@RedXBeard](https://github.com/RedXBeard)/[**kivy-1010**](https://github.com/RedXBeard/kivy-1010)",
+              "1010! game on Kivy",
+              ""
+            ],
+            [
+              "27",
+              "[@emre](https://github.com/emre)/[**unicode_tr**](https://github.com/emre/unicode_tr)",
+              "a python module to make unicode strings work as expected for turkish chars. solves the turkish \"İ\" problem.",
+              "[:arrow_upper_right:](http://emre.github.io/unicode_tr)"
+            ],
+            [
+              "26",
+              "[@ybrs](https://github.com/ybrs)/[**putio-ftp-connector**](https://github.com/ybrs/putio-ftp-connector)",
+              "transfer your files from putio using your ftp client",
+              ""
+            ],
+            [
+              "24",
+              "[@ybrs](https://github.com/ybrs)/[**project-switcher**](https://github.com/ybrs/project-switcher)",
+              "hassle free project switching",
+              ""
+            ],
+            [
+              "22",
+              "[@emre](https://github.com/emre)/[**nutella.py**](https://github.com/emre/nutella.py)",
+              "nutella price ticker on your command line.",
+              ""
+            ],
+            [
+              "20",
+              "[@emre](https://github.com/emre)/[**storm-gui**](https://github.com/emre/storm-gui)",
+              "cross platform wxpython interface to stormssh.",
+              ""
+            ],
+            [
+              "17",
+              "[@emre](https://github.com/emre)/[**conqueue**](https://github.com/emre/conqueue)",
+              "conqueue is a queue manager library built on the top of redis.",
+              "[:arrow_upper_right:](http://emre.github.com/conqueue)"
+            ],
+            [
+              "17",
+              "[@RedXBeard](https://github.com/RedXBeard)/[**pomodoro**](https://github.com/RedXBeard/pomodoro)",
+              "Pomodoro GUI",
+              ""
+            ],
+            [
+              "15",
+              "[@ybrs](https://github.com/ybrs)/[**putio-xbmc-v2**](https://github.com/ybrs/putio-xbmc-v2)",
+              "Put.io xbmc addon with api v2",
+              ""
+            ],
+            [
+              "12",
+              "[@kadirpekel](https://github.com/kadirpekel)/[**liquer**](https://github.com/kadirpekel/liquer)",
+              "Query your objects for two cents!",
+              ""
+            ],
+            [
+              "11",
+              "[@mastizada](https://github.com/mastizada)/[**dbConnect**](https://github.com/mastizada/dbConnect)",
+              "MySQL for Humans",
+              "[:arrow_upper_right:](http://dbconnect.readthedocs.org/)"
+            ],
+            [
+              "11",
+              "[@ybrs](https://github.com/ybrs)/[**redis-clones**](https://github.com/ybrs/redis-clones)",
+              "dummy redis clones implementation in different languages/frameworks",
+              ""
+            ],
+            [
+              "10",
+              "[@halitalptekin](https://github.com/halitalptekin)/[**kandilli**](https://github.com/halitalptekin/kandilli)",
+              "Kandilli last earthquakes api",
+              ""
+            ],
+            [
+              "10",
+              "[@kozdincer](https://github.com/kozdincer)/[**python-haproxy-tools**](https://github.com/kozdincer/python-haproxy-tools)",
+              "Python Library for managing HAProxy",
+              ""
+            ],
+            [
+              "10",
+              "[@ybrs](https://github.com/ybrs)/[**assh**](https://github.com/ybrs/assh)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@emre](https://github.com/emre)/[**digitalocean_to_sshc…**](https://github.com/emre/digitalocean_to_sshconfig)",
+              "all your droplets belong to your ssh config™",
+              ""
+            ],
+            [
+              "9",
+              "[@halitalptekin](https://github.com/halitalptekin)/[**isip**](https://github.com/halitalptekin/isip)",
+              "Interactive sip toolkit for packet manipulations, sniffing, man in the middle attacks, fuzzing, simulating of dos attacks.",
+              ""
+            ],
+            [
+              "9",
+              "[@ybrs](https://github.com/ybrs)/[**trpy**](https://github.com/ybrs/trpy)",
+              "An attempt to make a programming lang. in Turkish / Türkçe programlama dili denemesi",
+              ""
+            ],
+            [
+              "9",
+              "[@halitalptekin](https://github.com/halitalptekin)/[**dotfiles**](https://github.com/halitalptekin/dotfiles)",
+              "my *nix dotfiles",
+              ""
+            ],
+            [
+              "8",
+              "[@tayfun](https://github.com/tayfun)/[**bilgisayfam**](https://github.com/tayfun/bilgisayfam)",
+              "A start of something new",
+              ""
+            ],
+            [
+              "8",
+              "[@RedXBeard](https://github.com/RedXBeard)/[**pygram**](https://github.com/RedXBeard/pygram)",
+              "Telegram messaging from your terminal.",
+              ""
+            ],
+            [
+              "7",
+              "[@kadirpekel](https://github.com/kadirpekel)/[**hodri**](https://github.com/kadirpekel/hodri)",
+              "Monitoring tools for jira folks",
+              ""
+            ],
+            [
+              "7",
+              "[@erayarslan](https://github.com/erayarslan)/[**BasicSelfieModel-Pyt…**](https://github.com/erayarslan/BasicSelfieModel-Python)",
+              "@ahmetozantekin BasicSelfieModel inspired Python thing ",
+              ""
+            ],
+            [
+              "6",
+              "[@ybrs](https://github.com/ybrs)/[**putio-plex-v2**](https://github.com/ybrs/putio-plex-v2)",
+              "Putio Plex with v2 api",
+              ""
+            ],
+            [
+              "6",
+              "[@RedXBeard](https://github.com/RedXBeard)/[**RomanNumbers**](https://github.com/RedXBeard/RomanNumbers)",
+              "Numeral systems convertions each other",
+              ""
+            ],
+            [
+              "6",
+              "[@aslanon](https://github.com/aslanon)/[**konsoling**](https://github.com/aslanon/konsoling)",
+              "Remote command dispatch system for Linux",
+              ""
+            ],
+            [
+              "6",
+              "[@RedXBeard](https://github.com/RedXBeard)/[**kivy-mines**](https://github.com/RedXBeard/kivy-mines)",
+              "mines game written in python kivy",
+              ""
+            ],
+            [
+              "6",
+              "[@bahadir](https://github.com/bahadir)/[**packathon2016**](https://github.com/bahadir/packathon2016)",
+              "Packathon.org 2016",
+              ""
+            ],
+            [
+              "5",
+              "[@emre](https://github.com/emre)/[**lkd-courses**](https://github.com/emre/lkd-courses)",
+              "LKD bunyesinde gerceklestirilen kurslar icin yonetim yazilimi. https://uye.lkd.org.tr/trac/ticket/1830",
+              ""
+            ],
+            [
+              "5",
+              "[@halitalptekin](https://github.com/halitalptekin)/[**codebook**](https://github.com/halitalptekin/codebook)",
+              "Personal code snippets and notes",
+              ""
+            ],
+            [
+              "5",
+              "[@emre](https://github.com/emre)/[**safran**](https://github.com/emre/safran)",
+              "safran.io reader - on your command line.",
+              ""
+            ],
+            [
+              "5",
+              "[@ozgebarbaros](https://github.com/ozgebarbaros)/[**helpdesk**](https://github.com/ozgebarbaros/helpdesk)",
+              "Helpdesk  is a web application written in Python/Django",
+              ""
+            ],
+            [
+              "5",
+              "[@RedXBeard](https://github.com/RedXBeard)/[**PictureViewer**](https://github.com/RedXBeard/PictureViewer)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@ybrs](https://github.com/ybrs)/[**terminator-forked**](https://github.com/ybrs/terminator-forked)",
+              "just added a couple of things to python-terminator",
+              ""
+            ],
+            [
+              "5",
+              "[@ozcanesen](https://github.com/ozcanesen)/[**spotify-indicator**](https://github.com/ozcanesen/spotify-indicator)",
+              "Spotify Indicator replacement for Pantheon Desktop Environment.",
+              ""
+            ],
+            [
+              "5",
+              "[@tdgunes](https://github.com/tdgunes)/[**pyplyn**](https://github.com/tdgunes/pyplyn)",
+              "Only one-way pipeline (pyplyn) for data handling in Python",
+              ""
+            ],
+            [
+              "5",
+              "[@aladagemre](https://github.com/aladagemre)/[**django-friendship-ne…**](https://github.com/aladagemre/django-friendship-network)",
+              "Django Friendship module with Neo4j infrastructure",
+              ""
+            ],
+            [
+              "4",
+              "[@ybrs](https://github.com/ybrs)/[**mongomodels**](https://github.com/ybrs/mongomodels)",
+              "a python object mapper for mongodb (pymongo)",
+              ""
+            ],
+            [
+              "4",
+              "[@kadirpekel](https://github.com/kadirpekel)/[**dudu**](https://github.com/kadirpekel/dudu)",
+              "get things done!",
+              ""
+            ],
+            [
+              "4",
+              "[@halitalptekin](https://github.com/halitalptekin)/[**PyTr**](https://github.com/halitalptekin/PyTr)",
+              "Another Django Project",
+              "[:arrow_upper_right:](http://www.pytr.org)"
+            ],
+            [
+              "4",
+              "[@bahadir](https://github.com/bahadir)/[**dj**](https://github.com/bahadir/dj)",
+              " Command line tool for Django developers.",
+              ""
+            ],
+            [
+              "4",
+              "[@RedXBeard](https://github.com/RedXBeard)/[**deployapp**](https://github.com/RedXBeard/deployapp)",
+              "Deployment Tool",
+              ""
+            ],
+            [
+              "3",
+              "[@emre](https://github.com/emre)/[**btcturk-client**](https://github.com/emre/btcturk-client)",
+              "btcturk.com api client",
+              ""
+            ],
+            [
+              "3",
+              "[@ybrs](https://github.com/ybrs)/[**tree-writer**](https://github.com/ybrs/tree-writer)",
+              "draws n-tree in ascii - like a type writer",
+              ""
+            ],
+            [
+              "3",
+              "[@ybrs](https://github.com/ybrs)/[**pydnode**](https://github.com/ybrs/pydnode)",
+              "dnode protocol implementation in python",
+              ""
+            ],
+            [
+              "3",
+              "[@kadirpekel](https://github.com/kadirpekel)/[**gistory**](https://github.com/kadirpekel/gistory)",
+              "What if your gist revision history makes sense.",
+              ""
+            ],
+            [
+              "3",
+              "[@ybrs](https://github.com/ybrs)/[**hazelcast-python**](https://github.com/ybrs/hazelcast-python)",
+              "hazelcast python client",
+              ""
+            ],
+            [
+              "3",
+              "[@doganaydin](https://github.com/doganaydin)/[**themoviedb-json**](https://github.com/doganaydin/themoviedb-json)",
+              "Unofficial themoviedb.org python api wrapper",
+              ""
+            ],
+            [
+              "3",
+              "[@ozgebarbaros](https://github.com/ozgebarbaros)/[**ab2015PythonKurs**](https://github.com/ozgebarbaros/ab2015PythonKurs)",
+              "Akademik Bilişim 2015'te kursta anlatılan örnekleri içerir",
+              ""
+            ],
+            [
+              "3",
+              "[@kozdincer](https://github.com/kozdincer)/[**rabbitmq_collectd_pl…**](https://github.com/kozdincer/rabbitmq_collectd_plugin)",
+              "Collectd Plugins",
+              ""
+            ],
+            [
+              "3",
+              "[@kozdincer](https://github.com/kozdincer)/[**hapra**](https://github.com/kozdincer/hapra)",
+              "Haproxy Restful Api",
+              ""
+            ],
+            [
+              "3",
+              "[@bahadir](https://github.com/bahadir)/[**ldap_wrapper**](https://github.com/bahadir/ldap_wrapper)",
+              "LDAP Wrapper Library for Python (obsolete)",
+              "[:arrow_upper_right:](https://github.com/bahadir/ldap_wrapper)"
+            ],
+            [
+              "3",
+              "[@kadirpekel](https://github.com/kadirpekel)/[**wrest**](https://github.com/kadirpekel/wrest)",
+              "thin rest client",
+              ""
+            ],
+            [
+              "3",
+              "[@yasinyaman](https://github.com/yasinyaman)/[**Harita**](https://github.com/yasinyaman/Harita)",
+              "Linux kullanıcıları haritada",
+              ""
+            ],
+            [
+              "3",
+              "[@RedXBeard](https://github.com/RedXBeard)/[**gitwatcher-ui**](https://github.com/RedXBeard/gitwatcher-ui)",
+              "git repo watcher pull push commit fetch commands are all in one app.",
+              ""
+            ],
+            [
+              "2",
+              "[@aladagemre](https://github.com/aladagemre)/[**misc**](https://github.com/aladagemre/misc)",
+              "Small scripts for various purposes.",
+              ""
+            ],
+            [
+              "2",
+              "[@aladagemre](https://github.com/aladagemre)/[**teleskop**](https://github.com/aladagemre/teleskop)",
+              "Queued image resizer. Requirements: Python 2.6+, PyQt4, PIL libraries and ImageMagick (mogrify command)",
+              ""
+            ],
+            [
+              "2",
+              "[@faraday](https://github.com/faraday)/[**odp-extract**](https://github.com/faraday/odp-extract)",
+              "Scripts to extract clustering datasets from Open Directory Project (ODP), similar to ODP 239",
+              ""
+            ],
+            [
+              "2",
+              "[@aladagemre](https://github.com/aladagemre)/[**windrose-drawer**](https://github.com/aladagemre/windrose-drawer)",
+              "Windrose drawer software",
+              ""
+            ],
+            [
+              "2",
+              "[@ozgebarbaros](https://github.com/ozgebarbaros)/[**jawmail**](https://github.com/ozgebarbaros/jawmail)",
+              "Just another web mail written in python and django",
+              ""
+            ],
+            [
+              "2",
+              "[@yasar11732](https://github.com/yasar11732)/[**Lexer-Parser**](https://github.com/yasar11732/Lexer-Parser)",
+              "A simple python lexer and parser that I wrote for my blog posts",
+              ""
+            ],
+            [
+              "2",
+              "[@makiftasova](https://github.com/makiftasova)/[**telegram-twitter-bot**](https://github.com/makiftasova/telegram-twitter-bot)",
+              "a simple bot for streaming tweets to telegram",
+              ""
+            ],
+            [
+              "2",
+              "[@akarca](https://github.com/akarca)/[**django-fastcart**](https://github.com/akarca/django-fastcart)",
+              "Django shopping cart application",
+              ""
+            ],
+            [
+              "2",
+              "[@mastizada](https://github.com/mastizada)/[**mozillaz**](https://github.com/mastizada/mozillaz)",
+              "Mozilla Azerbaijan Website + API",
+              ""
+            ],
+            [
+              "2",
+              "[@tayfun](https://github.com/tayfun)/[**sudoku**](https://github.com/tayfun/sudoku)",
+              "Sudoku Solver",
+              ""
+            ],
+            [
+              "2",
+              "[@halitalptekin](https://github.com/halitalptekin)/[**coder**](https://github.com/halitalptekin/coder)",
+              "Project for my school",
+              ""
+            ],
+            [
+              "2",
+              "[@halitalptekin](https://github.com/halitalptekin)/[**camserver**](https://github.com/halitalptekin/camserver)",
+              "Simple webcam server",
+              ""
+            ],
+            [
+              "2",
+              "[@emre](https://github.com/emre)/[**semaphores**](https://github.com/emre/semaphores)",
+              "Semaphore puzzles and solutions.",
+              ""
+            ],
+            [
+              "2",
+              "[@halitalptekin](https://github.com/halitalptekin)/[**Araci**](https://github.com/halitalptekin/Araci)",
+              "My first PyQt application(Simple text searcher in file)",
+              ""
+            ],
+            [
+              "2",
+              "[@emre](https://github.com/emre)/[**btcturk-ticker**](https://github.com/emre/btcturk-ticker)",
+              "bitcoin price ticker for your command line.",
+              ""
+            ],
+            [
+              "2",
+              "[@tdgunes](https://github.com/tdgunes)/[**tdgsync**](https://github.com/tdgunes/tdgsync)",
+              "Tracks your computer's internet ip, syncs it to a defined ftp server if anything changes. And also sends tweets about your computer's status! ",
               ""
             ]
           ]
