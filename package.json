@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -1060,6 +1061,45 @@
             [
               "2",
               "[@baransomakli](https://github.com/baransomakli)/[**flexiblegs-sample**](https://github.com/baransomakli/flexiblegs-sample)",
+              "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@dotKa](https://github.com/dotKa)/[**imagescrape**](https://github.com/dotKa/imagescrape)",
+              "Görsel Çekme Botu",
+              ""
+            ],
+            [
+              "3",
+              "[@deralation](https://github.com/deralation)/[**socialbug**](https://github.com/deralation/socialbug)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@altugyigit](https://github.com/altugyigit)/[**BioMatch**](https://github.com/altugyigit/BioMatch)",
+              "Matching Algorithms",
+              ""
+            ],
+            [
+              "2",
+              "[@deralation](https://github.com/deralation)/[**test-repo**](https://github.com/deralation/test-repo)",
               "",
               ""
             ]
