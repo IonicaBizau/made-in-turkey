@@ -58,7 +58,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -1565,6 +1566,195 @@
               "2",
               "[@iltercengiz](https://github.com/iltercengiz)/[**SSL**](https://github.com/iltercengiz/SSL)",
               "SSL test with AFNetworking and SocketRocket",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "164",
+              "[@o](https://github.com/o)/[**sitemap-php**](https://github.com/o/sitemap-php)",
+              "Library for generating Google sitemap XML files",
+              ""
+            ],
+            [
+              "29",
+              "[@o](https://github.com/o)/[**crypt-php**](https://github.com/o/crypt-php)",
+              "Library for encrypting and decrypting data with symmetric encryption",
+              ""
+            ],
+            [
+              "25",
+              "[@xsuperbug](https://github.com/xsuperbug)/[**g0yg0y**](https://github.com/xsuperbug/g0yg0y)",
+              "",
+              ""
+            ],
+            [
+              "22",
+              "[@ekrembk](https://github.com/ekrembk)/[**sanal-pos**](https://github.com/ekrembk/sanal-pos)",
+              "EST ve Posnet destekli sanal pos paketi. Desteklenen bankalar: Akbank, Finansbank, Halkbank, Türkiye İş Bankası, Anadolubank ve Yapı Kredi.",
+              "[:arrow_upper_right:](http://ekrembk.com)"
+            ],
+            [
+              "16",
+              "[@xsuperbug](https://github.com/xsuperbug)/[**payloads**](https://github.com/xsuperbug/payloads)",
+              "",
+              ""
+            ],
+            [
+              "14",
+              "[@o](https://github.com/o)/[**rest-api-test-exampl…**](https://github.com/o/rest-api-test-example)",
+              "Testing REST API's with Guzzle (3|4) and PHPUnit",
+              ""
+            ],
+            [
+              "13",
+              "[@muatik](https://github.com/muatik)/[**mysqlDiff**](https://github.com/muatik/mysqlDiff)",
+              "displays schema differences between two versions of same mysql database (I am embarrassed of this code.) ",
+              ""
+            ],
+            [
+              "10",
+              "[@o](https://github.com/o)/[**redis-info**](https://github.com/o/redis-info)",
+              "Web-based interface for monitoring redis servers",
+              ""
+            ],
+            [
+              "9",
+              "[@muhittin](https://github.com/muhittin)/[**fuelphp_excel**](https://github.com/muhittin/fuelphp_excel)",
+              "PHPExcel Library for FuelPHP",
+              ""
+            ],
+            [
+              "8",
+              "[@o](https://github.com/o)/[**EasyRestBundle**](https://github.com/o/EasyRestBundle)",
+              "Symfony2 bundle for restful applications",
+              ""
+            ],
+            [
+              "8",
+              "[@o](https://github.com/o)/[**heatbeat**](https://github.com/o/heatbeat)",
+              "Time-series data logging/graphing framework top of RRDTool",
+              ""
+            ],
+            [
+              "7",
+              "[@o](https://github.com/o)/[**zend-twig**](https://github.com/o/zend-twig)",
+              "Zend_View compatible Twig integration for Zend Framework 1",
+              ""
+            ],
+            [
+              "7",
+              "[@kemalkanok](https://github.com/kemalkanok)/[**generators**](https://github.com/kemalkanok/generators)",
+              "laravel5 mvc generator",
+              ""
+            ],
+            [
+              "6",
+              "[@ekrembk](https://github.com/ekrembk)/[**vakifbank-pos**](https://github.com/ekrembk/vakifbank-pos)",
+              "Vakıfbank sanal posu için PHP library.",
+              ""
+            ],
+            [
+              "6",
+              "[@muatik](https://github.com/muatik)/[**kelimeci**](https://github.com/muatik/kelimeci)",
+              "yabancı dildeki kelimelerin öğrenilmesini kolaylaştıran araç",
+              "[:arrow_upper_right:](http://cookingthecode.com/)"
+            ],
+            [
+              "5",
+              "[@mustafauysal](https://github.com/mustafauysal)/[**wph-breaking-news**](https://github.com/mustafauysal/wph-breaking-news)",
+              "Breaking news plugin for WordPress",
+              "[:arrow_upper_right:](http://wordpress.org/plugins/wph-breaking-news/)"
+            ],
+            [
+              "3",
+              "[@kemalkanok](https://github.com/kemalkanok)/[**blog-with-xml**](https://github.com/kemalkanok/blog-with-xml)",
+              "blogs wich using xml as a db with ajax and seo optimization",
+              ""
+            ],
+            [
+              "3",
+              "[@asilbalaban](https://github.com/asilbalaban)/[**tutorial-cuzdan**](https://github.com/asilbalaban/tutorial-cuzdan)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@muhittin](https://github.com/muhittin)/[**fuelphp_recaptcha**](https://github.com/muhittin/fuelphp_recaptcha)",
+              "Re-Captcha Package for FuelPHP Framework",
+              ""
+            ],
+            [
+              "3",
+              "[@muatik](https://github.com/muatik)/[**phpMysqlBackup**](https://github.com/muatik/phpMysqlBackup)",
+              "",
+              "[:arrow_upper_right:](http://cookingthecode.com/a19_Veritabani-yedeklemek)"
+            ],
+            [
+              "2",
+              "[@muatik](https://github.com/muatik)/[**logmon**](https://github.com/muatik/logmon)",
+              "yet another web based text log monitor tool",
+              ""
+            ],
+            [
+              "2",
+              "[@muatik](https://github.com/muatik)/[**wordnetCrawler2**](https://github.com/muatik/wordnetCrawler2)",
+              "tdk, zargan, seslisozluk sitelerindeki tüm kelimeleri en küçük detayına kadar çeken örümböcük",
+              ""
+            ],
+            [
+              "2",
+              "[@asilbalaban](https://github.com/asilbalaban)/[**Nested-Navigations**](https://github.com/asilbalaban/Nested-Navigations)",
+              "backend for jquery nestable plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@o](https://github.com/o)/[**putio**](https://github.com/o/putio)",
+              "PHP library for Putio API",
+              ""
+            ],
+            [
+              "2",
+              "[@o](https://github.com/o)/[**apc-stats**](https://github.com/o/apc-stats)",
+              "UNMAINTAINED! - Web script that shows information about Alternative PHP Cache",
+              ""
+            ],
+            [
+              "2",
+              "[@o](https://github.com/o)/[**serverinfo-old**](https://github.com/o/serverinfo-old)",
+              "Web-based script that shows various information about your server, no longer maintained",
+              ""
+            ],
+            [
+              "2",
+              "[@o](https://github.com/o)/[**seven**](https://github.com/o/seven)",
+              "Web-based interface for browsing subversion repositories",
+              ""
+            ],
+            [
+              "2",
+              "[@hdogan](https://github.com/hdogan)/[**HTAdmin**](https://github.com/hdogan/HTAdmin)",
+              "Ancient code of HTAdmin a simple PHP tool for administrating Apache .htpasswd files.",
+              ""
+            ],
+            [
+              "2",
+              "[@o](https://github.com/o)/[**metric-collector**](https://github.com/o/metric-collector)",
+              "Library for collecting local and remote system performance statistics",
               ""
             ]
           ]
