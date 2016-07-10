@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -665,6 +666,201 @@
               "2",
               "[@sercaneraslan](https://github.com/sercaneraslan)/[**angular-codepen-dire…**](https://github.com/sercaneraslan/angular-codepen-directive)",
               "Angular Codepen Directive",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1285",
+              "[@iammert](https://github.com/iammert)/[**MaterialIntroView**](https://github.com/iammert/MaterialIntroView)",
+              "Material Intro View is a showcase android library.",
+              ""
+            ],
+            [
+              "809",
+              "[@iammert](https://github.com/iammert)/[**MusicPlayerView**](https://github.com/iammert/MusicPlayerView)",
+              "Android custom view and progress for music player",
+              ""
+            ],
+            [
+              "621",
+              "[@iammert](https://github.com/iammert)/[**InteractivePlayerVie…**](https://github.com/iammert/InteractivePlayerView)",
+              "Custom android music player view.",
+              ""
+            ],
+            [
+              "604",
+              "[@iammert](https://github.com/iammert)/[**ProgressLayout**](https://github.com/iammert/ProgressLayout)",
+              "custom progress layout view for Android",
+              ""
+            ],
+            [
+              "308",
+              "[@iammert](https://github.com/iammert)/[**MaskProgressView**](https://github.com/iammert/MaskProgressView)",
+              "Yet another android custom progress view for your music player",
+              ""
+            ],
+            [
+              "241",
+              "[@iammert](https://github.com/iammert)/[**FastGCM**](https://github.com/iammert/FastGCM)",
+              "Fast Google Cloud Messaging(GCM) integration for Android. Receive push notification easily.",
+              ""
+            ],
+            [
+              "102",
+              "[@iammert](https://github.com/iammert)/[**RadioPlayerService**](https://github.com/iammert/RadioPlayerService)",
+              "Android service library which uses AAC Player. Ready to use Radio Player Service.",
+              ""
+            ],
+            [
+              "62",
+              "[@iammert](https://github.com/iammert)/[**CollapsingToolbarExa…**](https://github.com/iammert/CollapsingToolbarExample)",
+              "Material collapsing toolbar and floating action button demonstration",
+              ""
+            ],
+            [
+              "59",
+              "[@iorixxx](https://github.com/iorixxx)/[**lucene-solr-analysis…**](https://github.com/iorixxx/lucene-solr-analysis-turkish)",
+              "Turkish analysis components for Apache Lucene/Solr ",
+              ""
+            ],
+            [
+              "22",
+              "[@iammert](https://github.com/iammert)/[**WaterWatchFace**](https://github.com/iammert/WaterWatchFace)",
+              "Android wear watchface",
+              ""
+            ],
+            [
+              "18",
+              "[@halilkaya](https://github.com/halilkaya)/[**golbat**](https://github.com/halilkaya/golbat)",
+              " Golbat is an Android library that helps you on working with camera, gallery and output and its encoded types. ",
+              ""
+            ],
+            [
+              "10",
+              "[@iammert](https://github.com/iammert)/[**DotLineWatchface**](https://github.com/iammert/DotLineWatchface)",
+              "Android wear watchface",
+              ""
+            ],
+            [
+              "8",
+              "[@mulderbaba](https://github.com/mulderbaba)/[**EWALectureNotes**](https://github.com/mulderbaba/EWALectureNotes)",
+              "Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacettepe University",
+              ""
+            ],
+            [
+              "8",
+              "[@iammert](https://github.com/iammert)/[**Dagger2Example**](https://github.com/iammert/Dagger2Example)",
+              "Basic Dagger 2 Dependency Injection example",
+              ""
+            ],
+            [
+              "7",
+              "[@iammert](https://github.com/iammert)/[**hoychatapp**](https://github.com/iammert/hoychatapp)",
+              "Hoy app let you meet random people all over the world. It is already published on app market. But if you want to add some feature, you are free to steal anything.",
+              ""
+            ],
+            [
+              "6",
+              "[@halilkaya](https://github.com/halilkaya)/[**ab2016-1**](https://github.com/halilkaya/ab2016-1)",
+              "AB2016 Android Uygulama Gelistirme Egitimi 1. Gun",
+              ""
+            ],
+            [
+              "4",
+              "[@mehmetakiftutuncu](https://github.com/mehmetakiftutuncu)/[**MyKentKart**](https://github.com/mehmetakiftutuncu/MyKentKart)",
+              "My KentKart is an Android application for KentKart.",
+              ""
+            ],
+            [
+              "4",
+              "[@mehmetakiftutuncu](https://github.com/mehmetakiftutuncu)/[**eshotroid-legacy**](https://github.com/mehmetakiftutuncu/eshotroid-legacy)",
+              "An Android application to check bus times for ESHOT İzmir",
+              ""
+            ],
+            [
+              "4",
+              "[@fehmicansaglam](https://github.com/fehmicansaglam)/[**cacheman**](https://github.com/fehmicansaglam/cacheman)",
+              "Simplifies Play! Framework 1.2.x Cache Management",
+              ""
+            ],
+            [
+              "4",
+              "[@mulderbaba](https://github.com/mulderbaba)/[**http-requester**](https://github.com/mulderbaba/http-requester)",
+              "Apache HTTP Client based requester that generates heavy-load HTTP requests",
+              ""
+            ],
+            [
+              "3",
+              "[@iammert](https://github.com/iammert)/[**HolyWatchFace**](https://github.com/iammert/HolyWatchFace)",
+              "Holy Shit Watchface",
+              ""
+            ],
+            [
+              "3",
+              "[@ahmetgurel](https://github.com/ahmetgurel)/[**Permit-Tracking-Syst…**](https://github.com/ahmetgurel/Permit-Tracking-System-Java)",
+              "The permit tracking system developed with java",
+              ""
+            ],
+            [
+              "2",
+              "[@accavdar](https://github.com/accavdar)/[**DroidTranslate**](https://github.com/accavdar/DroidTranslate)",
+              "DroidTranslate is a Turkish-English translator for Android. It uses Tesseract Tools as an OCR library.",
+              ""
+            ],
+            [
+              "2",
+              "[@mulderbaba](https://github.com/mulderbaba)/[**cassandra-netty-rest…**](https://github.com/mulderbaba/cassandra-netty-rest-simple)",
+              "Hello World REST web service deployed on Netty inserting a Person object to Cassandra when invoked",
+              ""
+            ],
+            [
+              "2",
+              "[@mulderbaba](https://github.com/mulderbaba)/[**JavaEE7Session**](https://github.com/mulderbaba/JavaEE7Session)",
+              "Sample Code Snippets for JAVA EE 7 Session of AnkaraJUG",
+              ""
+            ],
+            [
+              "2",
+              "[@fehmicansaglam](https://github.com/fehmicansaglam)/[**mazlum**](https://github.com/fehmicansaglam/mazlum)",
+              "Very very simple nonblocking http server implementation",
+              ""
+            ],
+            [
+              "2",
+              "[@mehmetakiftutuncu](https://github.com/mehmetakiftutuncu)/[**Muezzin**](https://github.com/mehmetakiftutuncu/Muezzin)",
+              "An Android application for Islamic prayer times",
+              ""
+            ],
+            [
+              "2",
+              "[@mertkahyaoglu](https://github.com/mertkahyaoglu)/[**android-login-regist…**](https://github.com/mertkahyaoglu/android-login-register-system)",
+              "Built with node.js(express.js) and mysql on the server-side and Android Volley HTTP library on the client side for transmitting network data",
+              ""
+            ],
+            [
+              "2",
+              "[@iammert](https://github.com/iammert)/[**yemeksepetiparser**](https://github.com/iammert/yemeksepetiparser)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mulderbaba](https://github.com/mulderbaba)/[**8GreatlyUnderusedFea…**](https://github.com/mulderbaba/8GreatlyUnderusedFeaturesOfJUnit)",
+              "Java Magazine Article Examples for 8 Essential Features of JUnit",
               ""
             ]
           ]
