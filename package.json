@@ -56,7 +56,8 @@
           "[ActionScript](#actionscript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -1347,6 +1348,39 @@
               "2",
               "[@bwh](https://github.com/bwh)/[**ZebraKarmaFrames**](https://github.com/bwh/ZebraKarmaFrames)",
               "Experimental Karma Loot Time Optimization Frames",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@gokhanozbulak](https://github.com/gokhanozbulak)/[**Harris-Detector**](https://github.com/gokhanozbulak/Harris-Detector)",
+              "A Harris corner detection implementation written in Matlab.",
+              ""
+            ],
+            [
+              "2",
+              "[@OzlemTugrul](https://github.com/OzlemTugrul)/[**Matlab.code**](https://github.com/OzlemTugrul/Matlab.code)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@hkayabilisim](https://github.com/hkayabilisim)/[**TSCU**](https://github.com/hkayabilisim/TSCU)",
+              "Time Series Classification Utility",
               ""
             ]
           ]
