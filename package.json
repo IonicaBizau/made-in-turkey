@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -1141,6 +1142,39 @@
               "2",
               "[@kyasar](https://github.com/kyasar)/[**apkg**](https://github.com/kyasar/apkg)",
               "Atlas Package Manager - A lightweight embedded package manager application and library",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@cagdasc](https://github.com/cagdasc)/[**BeagleBoneBlack-I2C**](https://github.com/cagdasc/BeagleBoneBlack-I2C)",
+              "BeagleBone Black I2C Library",
+              "[:arrow_upper_right:](http://www.expcodes.blogspot.com/)"
+            ],
+            [
+              "2",
+              "[@onuryurtturk](https://github.com/onuryurtturk)/[**MazeGame**](https://github.com/onuryurtturk/MazeGame)",
+              "Maze Game developed with C Programming Language",
+              ""
+            ],
+            [
+              "2",
+              "[@bilalcorbacioglu](https://github.com/bilalcorbacioglu)/[**Secret-Sharing**](https://github.com/bilalcorbacioglu/Secret-Sharing)",
+              "Shamir's Secret Sharing(Image) Algorithm",
               ""
             ]
           ]
