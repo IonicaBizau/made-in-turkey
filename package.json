@@ -63,7 +63,8 @@
           "[Python](#python)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -2569,6 +2570,39 @@
               "2",
               "[@narzac](https://github.com/narzac)/[**dotfiles**](https://github.com/narzac/dotfiles)",
               "bash aliases, scripts and miscellaneous config files.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "78",
+              "[@yemeksepeti](https://github.com/yemeksepeti)/[**YSSegmentedControl**](https://github.com/yemeksepeti/YSSegmentedControl)",
+              "Android style segmented control written in swift.  \nFully customisable. ",
+              ""
+            ],
+            [
+              "25",
+              "[@yemeksepeti](https://github.com/yemeksepeti)/[**EmoticonParticles**](https://github.com/yemeksepeti/EmoticonParticles)",
+              "create particle effects on UIView's with any character including emoticons",
+              ""
+            ],
+            [
+              "5",
+              "[@yemeksepeti](https://github.com/yemeksepeti)/[**YSForms**](https://github.com/yemeksepeti/YSForms)",
+              "create customisable registration forms for ios quickly with validation. written in swift.",
               ""
             ]
           ]
