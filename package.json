@@ -62,7 +62,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -2517,6 +2518,57 @@
               "2",
               "[@ferhtaydn](https://github.com/ferhtaydn)/[**sbt-skeleton.g8**](https://github.com/ferhtaydn/sbt-skeleton.g8)",
               "yet another giter8 template for sbt/scala projects",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "16",
+              "[@lemiorhan](https://github.com/lemiorhan)/[**git-extras**](https://github.com/lemiorhan/git-extras)",
+              "Commands for extending your git experience",
+              ""
+            ],
+            [
+              "11",
+              "[@nomadturk](https://github.com/nomadturk)/[**vpn-adblock**](https://github.com/nomadturk/vpn-adblock)",
+              "Adblocking with DNSMasq on a SoftEther VPN.",
+              "[:arrow_upper_right:](http://az.cokh.net/softether-vpn-server-on-a-nat-server/)"
+            ],
+            [
+              "9",
+              "[@onury](https://github.com/onury)/[**alfred-video-downloa…**](https://github.com/onury/alfred-video-downloader)",
+              "Video Downloader is an Alfred workflow written in Bash/Shell for easily downloading videos (and/or extracting audio) from various websites such as YouTube, Vimeo, DailyMotion and more...",
+              ""
+            ],
+            [
+              "4",
+              "[@can](https://github.com/can)/[**TeknikBlog.old**](https://github.com/can/TeknikBlog.old)",
+              "kişisel siteler için 19 jekyll şablonu",
+              "[:arrow_upper_right:](http://00010011.biz/ben)"
+            ],
+            [
+              "4",
+              "[@nomadturk](https://github.com/nomadturk)/[**openresty-install**](https://github.com/nomadturk/openresty-install)",
+              "A bash script to install FFMpeg, ImageMagick, Php5.5 OpenResty Nginx with SPDY, ngx_pagespeed, RTMP support and extra modules.",
+              ""
+            ],
+            [
+              "2",
+              "[@narzac](https://github.com/narzac)/[**dotfiles**](https://github.com/narzac/dotfiles)",
+              "bash aliases, scripts and miscellaneous config files.",
               ""
             ]
           ]
