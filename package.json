@@ -1,0 +1,42 @@
+{
+  "name": "made-in-turkey",
+  "description": "A list of neat projects made in Turkey",
+  "keywords": [
+    "made",
+    "in",
+    "turkey",
+    "a",
+    "list",
+    "of",
+    "neat",
+    "projects"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "build/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/made-in-turkey.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/made-in-turkey/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/made-in-turkey#readme"
+}
