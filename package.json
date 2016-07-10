@@ -38,5 +38,638 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-turkey/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-turkey#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-turkey#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4607",
+              "[@needim](https://github.com/needim)/[**noty**](https://github.com/needim/noty)",
+              "noty is a jQuery notification plugin that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.",
+              "[:arrow_upper_right:](http://ned.im/noty)"
+            ],
+            [
+              "748",
+              "[@f](https://github.com/f)/[**delorean**](https://github.com/f/delorean)",
+              "An Agnostic, Complete Flux Architecture Framework",
+              "[:arrow_upper_right:](http://deloreanjs.com)"
+            ],
+            [
+              "594",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**react-designer**](https://github.com/fatiherikli/react-designer)",
+              "Easy to configure, lightweight, editable vector graphics in your react components.",
+              "[:arrow_upper_right:](http://fatiherikli.github.io/react-designer/)"
+            ],
+            [
+              "573",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**klassify**](https://github.com/fatiherikli/klassify)",
+              "Bayesian Text classification service based on Redis. Built on top of Tornado and React.js",
+              ""
+            ],
+            [
+              "549",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**fil**](https://github.com/fatiherikli/fil)",
+              "A playground for in-browser interpreters. Built with React/Redux.",
+              "[:arrow_upper_right:](http://fatiherikli.github.io/fil/)"
+            ],
+            [
+              "467",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**mockup-designer**](https://github.com/fatiherikli/mockup-designer)",
+              "The mockup tool that uses your local storage as backend.",
+              "[:arrow_upper_right:](http://fatiherikli.github.com/mockup-designer/)"
+            ],
+            [
+              "436",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**laroux.js**](https://github.com/eserozvataf/laroux.js)",
+              "Micro jquery substitute for modern browsers",
+              "[:arrow_upper_right:](https://eserozvataf.github.io/laroux.js/)"
+            ],
+            [
+              "310",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**dbpatterns**](https://github.com/fatiherikli/dbpatterns)",
+              "Dbpatterns is a service that allows you to create, share, explore database models on the web. Built on top of Django, Backbone. Patterns are stored on MongoDB, and uses Lettuce for BDD approach.",
+              "[:arrow_upper_right:](http://dbpatterns.com)"
+            ],
+            [
+              "218",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**brainfuck-visualizer**](https://github.com/fatiherikli/brainfuck-visualizer)",
+              "Javascript Brainfuck Interpreter and Visualizer. Built with Backbone.js",
+              "[:arrow_upper_right:](http://fatiherikli.github.io/brainfuck-visualizer/)"
+            ],
+            [
+              "189",
+              "[@anonrig](https://github.com/anonrig)/[**slack-manager**](https://github.com/anonrig/slack-manager)",
+              "Agile Development tool for Slack. Basically, \"Standup Meetings in Slack\".",
+              ""
+            ],
+            [
+              "130",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**scrumboard**](https://github.com/fatiherikli/scrumboard)",
+              "scrumboard application with backbone.js, django and tastypie.",
+              "[:arrow_upper_right:](http://scrumboard.herokuapp.com)"
+            ],
+            [
+              "83",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**backbone-autocomplet…**](https://github.com/fatiherikli/backbone-autocomplete)",
+              "An auto-complete widget built with Backbone.js",
+              "[:arrow_upper_right:](http://fatiherikli.github.com/backbone-autocomplete/)"
+            ],
+            [
+              "79",
+              "[@f](https://github.com/f)/[**pq**](https://github.com/f/pq)",
+              "Human Readable Promise Chains",
+              ""
+            ],
+            [
+              "79",
+              "[@sercaneraslan](https://github.com/sercaneraslan)/[**grabs**](https://github.com/sercaneraslan/grabs)",
+              "Front-End Development Environment",
+              "[:arrow_upper_right:](grabs.in)"
+            ],
+            [
+              "51",
+              "[@irfan](https://github.com/irfan)/[**jquery-star-rating**](https://github.com/irfan/jquery-star-rating)",
+              "jQuery Star Rating Plugin",
+              "[:arrow_upper_right:](http://irfandurmus.com/projects/jquery-star-rating-plugin/)"
+            ],
+            [
+              "48",
+              "[@sercaneraslan](https://github.com/sercaneraslan)/[**haller.js**](https://github.com/sercaneraslan/haller.js)",
+              "İsmin Hallerini Bulan Kütüphane",
+              "[:arrow_upper_right:](http://sercaneraslan.com/haller.js/)"
+            ],
+            [
+              "46",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**sey**](https://github.com/eserozvataf/sey)",
+              "Simple JavaScript build tool with declarative and easy configuration",
+              ""
+            ],
+            [
+              "45",
+              "[@hmert](https://github.com/hmert)/[**jquery-event-playbac…**](https://github.com/hmert/jquery-event-playback)",
+              "Records and plays back mouse movements and events (useful for interactive demonstrations or tours)",
+              ""
+            ],
+            [
+              "45",
+              "[@Sly777](https://github.com/Sly777)/[**Jquery-Alpha-Image**](https://github.com/Sly777/Jquery-Alpha-Image)",
+              "This plugin can change selected colours to transparent and give result as image or imagedata. This plugin works IE9+, Chrome, Firefox, Safari.",
+              ""
+            ],
+            [
+              "44",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**backbone-notificatio…**](https://github.com/fatiherikli/backbone-notifications)",
+              "Global notification mechanism for Backbone",
+              "[:arrow_upper_right:](http://fatiherikli.github.com/backbone-notifications/)"
+            ],
+            [
+              "43",
+              "[@yasaricli](https://github.com/yasaricli)/[**nes**](https://github.com/yasaricli/nes)",
+              ":tv: Nes Emulator for meteor application.",
+              "[:arrow_upper_right:](http://nes.meteor.com)"
+            ],
+            [
+              "41",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**markov-chain-demo**](https://github.com/fatiherikli/markov-chain-demo)",
+              "Endless story with Markov Chains",
+              "[:arrow_upper_right:](https://fatiherikli.github.io/markov-chain-demo/index-en.html)"
+            ],
+            [
+              "40",
+              "[@f](https://github.com/f)/[**kemal-react-chat**](https://github.com/f/kemal-react-chat)",
+              "This demonstrates how easy it is to build Realtime Web applications with Kemal.",
+              "[:arrow_upper_right:](http://kemal-react-chat.herokuapp.com/)"
+            ],
+            [
+              "39",
+              "[@f](https://github.com/f)/[**xtract**](https://github.com/f/xtract)",
+              "Extract data from DOM, easily.",
+              ""
+            ],
+            [
+              "32",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**humorsuz**](https://github.com/fatiherikli/humorsuz)",
+              "Rastgele manşet üreteçi",
+              "[:arrow_upper_right:](http://fatiherikli.github.io/humorsuz)"
+            ],
+            [
+              "30",
+              "[@f](https://github.com/f)/[**ufcs**](https://github.com/f/ufcs)",
+              "DLang's Universal Function Call Syntax port to JavaScript",
+              ""
+            ],
+            [
+              "29",
+              "[@Sly777](https://github.com/Sly777)/[**Chat-Tutorial-with-N…**](https://github.com/Sly777/Chat-Tutorial-with-Node.js--Socket.io-and-Express)",
+              "This is sample project to show how to create chat system with Node.js, Socket.io and Express.",
+              "[:arrow_upper_right:](http://developerarea.blogspot.com/)"
+            ],
+            [
+              "29",
+              "[@needim](https://github.com/needim)/[**wdtLoading**](https://github.com/needim/wdtLoading)",
+              "Asana like application loading screen",
+              "[:arrow_upper_right:](http://ned.im/wdtLoading)"
+            ],
+            [
+              "26",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**backbone-editinplace**](https://github.com/fatiherikli/backbone-editinplace)",
+              "Edit-in-place functionality for backbone models",
+              "[:arrow_upper_right:](http://fatiherikli.github.com/backbone-editinplace/)"
+            ],
+            [
+              "20",
+              "[@hmert](https://github.com/hmert)/[**love**](https://github.com/hmert/love)",
+              ":heart:",
+              ""
+            ],
+            [
+              "20",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**backbone-sortable**](https://github.com/fatiherikli/backbone-sortable)",
+              "A sortable widget that uses HTML5 Drag and Drop API for your collections.",
+              "[:arrow_upper_right:](http://fatiherikli.github.com/backbone-sortable/)"
+            ],
+            [
+              "20",
+              "[@f](https://github.com/f)/[**postcss-inline-image**](https://github.com/f/postcss-inline-image)",
+              "PostCSS plugin that puts images as data URIs into your CSS",
+              ""
+            ],
+            [
+              "19",
+              "[@rahmanusta](https://github.com/rahmanusta)/[**ssh-on-web**](https://github.com/rahmanusta/ssh-on-web)",
+              "SSH Web Client written in Java",
+              ""
+            ],
+            [
+              "18",
+              "[@destan](https://github.com/destan)/[**github-label-manager**](https://github.com/destan/github-label-manager)",
+              "Manage and migrate your Github labels",
+              "[:arrow_upper_right:](destan.github.com/github-label-manager)"
+            ],
+            [
+              "17",
+              "[@yasaricli](https://github.com/yasaricli)/[**blaze**](https://github.com/yasaricli/blaze)",
+              "Easy reactive templating.",
+              "[:arrow_upper_right:]( http://yasaricli.github.io/blaze)"
+            ],
+            [
+              "15",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**scabbia1**](https://github.com/eserozvataf/scabbia1)",
+              "Scabbia PHP Framework (1.x branch)",
+              ""
+            ],
+            [
+              "15",
+              "[@f](https://github.com/f)/[**dont-fail-me-again**](https://github.com/f/dont-fail-me-again)",
+              "Node.js Error Handler by The Dark Side",
+              ""
+            ],
+            [
+              "14",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**glitchit.org**](https://github.com/fatiherikli/glitchit.org)",
+              "Gürültü patırtı as a service",
+              "[:arrow_upper_right:](http://glitchit.org)"
+            ],
+            [
+              "14",
+              "[@rahmanusta](https://github.com/rahmanusta)/[**java-mimarisiyle-kur…**](https://github.com/rahmanusta/java-mimarisiyle-kurumsal-cozumler)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@f](https://github.com/f)/[**deasciifier**](https://github.com/f/deasciifier)",
+              "Deasciifier yabancı metinleri Türkçeye çevirmenize yarayan bir uygulamadır.",
+              ""
+            ],
+            [
+              "13",
+              "[@fatihacet](https://github.com/fatihacet)/[**Umlgenerator.kdapp**](https://github.com/fatihacet/Umlgenerator.kdapp)",
+              "UML generator application for Koding. ",
+              ""
+            ],
+            [
+              "12",
+              "[@sercaneraslan](https://github.com/sercaneraslan)/[**genius**](https://github.com/sercaneraslan/genius)",
+              "Genius - The Mind Game",
+              "[:arrow_upper_right:](http://sercaneraslan.com/genius/)"
+            ],
+            [
+              "12",
+              "[@ramesaliyev](https://github.com/ramesaliyev)/[**gerzek**](https://github.com/ramesaliyev/gerzek)",
+              "Talented bot for Slack.",
+              ""
+            ],
+            [
+              "11",
+              "[@f](https://github.com/f)/[**veznedar**](https://github.com/f/veznedar)",
+              "Arapça Kök Üreteci",
+              ""
+            ],
+            [
+              "11",
+              "[@yasaricli](https://github.com/yasaricli)/[**meteor-slugify**](https://github.com/yasaricli/meteor-slugify)",
+              "Remove special characters from a string",
+              "[:arrow_upper_right:](https://atmospherejs.com/yasaricli/slugify)"
+            ],
+            [
+              "11",
+              "[@ramesaliyev](https://github.com/ramesaliyev)/[**mountains**](https://github.com/ramesaliyev/mountains)",
+              "Mountains web blog prototype. Simple web blog demonstration where you can earn badges.",
+              ""
+            ],
+            [
+              "11",
+              "[@hasantayyar](https://github.com/hasantayyar)/[**yalan**](https://github.com/hasantayyar/yalan)",
+              "sektöre özel yalan üretici aparat http://yalan.herokuapp.com",
+              ""
+            ],
+            [
+              "10",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**takke**](https://github.com/fatiherikli/takke)",
+              "Takke app",
+              "[:arrow_upper_right:](http://fatiherikli.github.io/takke/)"
+            ],
+            [
+              "9",
+              "[@f](https://github.com/f)/[**safran-cli**](https://github.com/f/safran-cli)",
+              "Safran.io için command line okuyucu.",
+              ""
+            ],
+            [
+              "9",
+              "[@hmert](https://github.com/hmert)/[**inline-search**](https://github.com/hmert/inline-search)",
+              "jQuery inline search plugin",
+              "[:arrow_upper_right:](http://hmert.github.com/inline-search)"
+            ],
+            [
+              "9",
+              "[@yasaricli](https://github.com/yasaricli)/[**electron-nes**](https://github.com/yasaricli/electron-nes)",
+              "Emulator of NES written in javascript for electron.",
+              ""
+            ],
+            [
+              "9",
+              "[@f](https://github.com/f)/[**jackpack**](https://github.com/f/jackpack)",
+              "JackPack",
+              ""
+            ],
+            [
+              "9",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**tr2utf8**](https://github.com/eserozvataf/tr2utf8)",
+              "Simple tool to convert turkish-encoded files into utf-8 encoded ones.",
+              ""
+            ],
+            [
+              "8",
+              "[@f](https://github.com/f)/[**backbone-presentatio…**](https://github.com/f/backbone-presentation)",
+              "Backbone.js Presentation (Turkish)",
+              ""
+            ],
+            [
+              "7",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**pm**](https://github.com/eserozvataf/pm)",
+              "A basic project management tool",
+              ""
+            ],
+            [
+              "7",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**apibone**](https://github.com/eserozvataf/apibone)",
+              "An unified platform for queryable services.",
+              ""
+            ],
+            [
+              "6",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**ts-spa-boilerplate**](https://github.com/eserozvataf/ts-spa-boilerplate)",
+              "TypeScript SPA Boilerplate",
+              ""
+            ],
+            [
+              "6",
+              "[@yasaricli](https://github.com/yasaricli)/[**admin**](https://github.com/yasaricli/admin)",
+              "Meteor very simple admin.",
+              "[:arrow_upper_right:](http://admin-docs.meteor.com)"
+            ],
+            [
+              "6",
+              "[@ozziest](https://github.com/ozziest)/[**mavidurak-blog-chrom…**](https://github.com/ozziest/mavidurak-blog-chrome-extension)",
+              "Mavidurak-IO Blog Reader For Chrome",
+              ""
+            ],
+            [
+              "6",
+              "[@sercaneraslan](https://github.com/sercaneraslan)/[**angular-disqus-direc…**](https://github.com/sercaneraslan/angular-disqus-directive)",
+              "Angular Disqus Directive",
+              ""
+            ],
+            [
+              "5",
+              "[@f](https://github.com/f)/[**knockbone**](https://github.com/f/knockbone)",
+              "Knockout.js and Backbone.js Entegration",
+              ""
+            ],
+            [
+              "5",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**eser**](https://github.com/eserozvataf/eser)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@Sly777](https://github.com/Sly777)/[**Multiplayer-Canvas-P…**](https://github.com/Sly777/Multiplayer-Canvas-Paint-tutorial-with-Node.js-Socket.io-and-Node-Static)",
+              "Multiplayer Canvas Paint tutorial with Node.js, Socket.io and Node-Static. http://blog.ilkerguller.com",
+              ""
+            ],
+            [
+              "4",
+              "[@ozziest](https://github.com/ozziest)/[**turkLirasiMaskesi**](https://github.com/ozziest/turkLirasiMaskesi)",
+              "Türk Lirası girişlerinde kullanılacak basit maskeleme kütüphanesi.",
+              ""
+            ],
+            [
+              "4",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**jseditor**](https://github.com/eserozvataf/jseditor)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@yasaricli](https://github.com/yasaricli)/[**meteor-nginx-conf**](https://github.com/yasaricli/meteor-nginx-conf)",
+              "Meteor package for interacting programmatically with an nginx configuration file",
+              "[:arrow_upper_right:](https://atmospherejs.com/yasaricli/nginx)"
+            ],
+            [
+              "4",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**kankim**](https://github.com/fatiherikli/kankim)",
+              "Simple social networking application",
+              "[:arrow_upper_right:](http://kank.im)"
+            ],
+            [
+              "4",
+              "[@f](https://github.com/f)/[**puremise.js**](https://github.com/f/puremise.js)",
+              "Yet another purely functional Promise Monad implementation",
+              ""
+            ],
+            [
+              "4",
+              "[@sercaneraslan](https://github.com/sercaneraslan)/[**angular-prism-direct…**](https://github.com/sercaneraslan/angular-prism-directive)",
+              "Angular Prism Directive",
+              ""
+            ],
+            [
+              "4",
+              "[@sercaneraslan](https://github.com/sercaneraslan)/[**grunt-github-pages-f…**](https://github.com/sercaneraslan/grunt-github-pages-foldering)",
+              "This Grunt plugin is create folders recursively for Github URL paths.",
+              ""
+            ],
+            [
+              "4",
+              "[@f](https://github.com/f)/[**twittersearch**](https://github.com/f/twittersearch)",
+              "Workshop Project for Ozgur Web Gunleri 2012",
+              ""
+            ],
+            [
+              "4",
+              "[@vigo](https://github.com/vigo)/[**git-tips**](https://github.com/vigo/git-tips)",
+              "Git versiyon kontrol sistemi ile ilgili Türkçe dökümantasyon ve ipuçları",
+              "[:arrow_upper_right:](http://vigo.github.io/git-tips/)"
+            ],
+            [
+              "3",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**kule-backbone-demo**](https://github.com/fatiherikli/kule-backbone-demo)",
+              "Sample kule app with Backbone",
+              "[:arrow_upper_right:](http://fatiherikli.github.io/kule-backbone-demo/)"
+            ],
+            [
+              "3",
+              "[@ahmet](https://github.com/ahmet)/[**grunt-macaron**](https://github.com/ahmet/grunt-macaron)",
+              "Grunt plugin for Macaron",
+              ""
+            ],
+            [
+              "3",
+              "[@f](https://github.com/f)/[**plug**](https://github.com/f/plug)",
+              "jquery plugin generator.",
+              ""
+            ],
+            [
+              "3",
+              "[@anonrig](https://github.com/anonrig)/[**url-shortener**](https://github.com/anonrig/url-shortener)",
+              "Url Shortener with MEAN stack",
+              ""
+            ],
+            [
+              "3",
+              "[@anonrig](https://github.com/anonrig)/[**varmigelen**](https://github.com/anonrig/varmigelen)",
+              "Car pooling platform built with PHP and MySQL",
+              ""
+            ],
+            [
+              "3",
+              "[@Sly777](https://github.com/Sly777)/[**C2DM-Android-Sample-…**](https://github.com/Sly777/C2DM-Android-Sample-w-Phonegap-UA)",
+              "C2DM Android App with Phonegap and Urban Airship",
+              ""
+            ],
+            [
+              "3",
+              "[@ozziest](https://github.com/ozziest)/[**cron-manager**](https://github.com/ozziest/cron-manager)",
+              "Cron Manager is a manager which you can define cron jobs easily without think about the cron regex.",
+              ""
+            ],
+            [
+              "3",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**twister.js**](https://github.com/fatiherikli/twister.js)",
+              "WAMP Client Implementation",
+              ""
+            ],
+            [
+              "3",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**personal-homepage**](https://github.com/eserozvataf/personal-homepage)",
+              "My personal homepage",
+              ""
+            ],
+            [
+              "2",
+              "[@muratcorlu](https://github.com/muratcorlu)/[**eksigator-fox**](https://github.com/muratcorlu/eksigator-fox)",
+              "Ekşigator için Firefox eklentisi",
+              "[:arrow_upper_right:](https://addons.mozilla.org/en-US/firefox/addon/58195/)"
+            ],
+            [
+              "2",
+              "[@muratcorlu](https://github.com/muratcorlu)/[**istanbus-frontend**](https://github.com/muratcorlu/istanbus-frontend)",
+              "Web frontend for @challenge's istanbus project",
+              "[:arrow_upper_right:](http://istanbus.org)"
+            ],
+            [
+              "2",
+              "[@anonrig](https://github.com/anonrig)/[**iap-middleware**](https://github.com/anonrig/iap-middleware)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@gmertk](https://github.com/gmertk)/[**rotten-tomatoes-node**](https://github.com/gmertk/rotten-tomatoes-node)",
+              "Rotten tomatoes api for node.js",
+              ""
+            ],
+            [
+              "2",
+              "[@yasaricli](https://github.com/yasaricli)/[**wayd**](https://github.com/yasaricli/wayd)",
+              "Social sharing.",
+              "[:arrow_upper_right:](wayd.in)"
+            ],
+            [
+              "2",
+              "[@hasantayyar](https://github.com/hasantayyar)/[**bimbul**](https://github.com/hasantayyar/bimbul)",
+              "hiç belli olmaz  http://bimbul.herokuapp.com  ",
+              ""
+            ],
+            [
+              "2",
+              "[@hasantayyar](https://github.com/hasantayyar)/[**getname**](https://github.com/hasantayyar/getname)",
+              "generate a name for anything",
+              "[:arrow_upper_right:](http://getname.herokuapp.com/)"
+            ],
+            [
+              "2",
+              "[@destan](https://github.com/destan)/[**node-webServer**](https://github.com/destan/node-webServer)",
+              "A web server template, ready for RESTful services and serving static content using Restify framework",
+              ""
+            ],
+            [
+              "2",
+              "[@yasaricli](https://github.com/yasaricli)/[**good**](https://github.com/yasaricli/good)",
+              "A photo sharing Mobile app built using meteor.",
+              ""
+            ],
+            [
+              "2",
+              "[@ozziest](https://github.com/ozziest)/[**ms-logger**](https://github.com/ozziest/ms-logger)",
+              "This is a logger which is separated from whole project and you can use as a microservice.",
+              ""
+            ],
+            [
+              "2",
+              "[@ozziest](https://github.com/ozziest)/[**vuejs-example**](https://github.com/ozziest/vuejs-example)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Sly777](https://github.com/Sly777)/[**Pac-Chapull**](https://github.com/Sly777/Pac-Chapull)",
+              "Pacman Clone Game - Gezi Parkına Sahip Çık",
+              "[:arrow_upper_right:](http://sly777.github.io/Pac-Chapull/)"
+            ],
+            [
+              "2",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**consultant**](https://github.com/eserozvataf/consultant)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**pullyn**](https://github.com/eserozvataf/pullyn)",
+              "One click to pull latest changes from repositories.",
+              ""
+            ],
+            [
+              "2",
+              "[@fatiherikli](https://github.com/fatiherikli)/[**fejax**](https://github.com/fatiherikli/fejax)",
+              " jQuery Easy Ajax Plugin",
+              "[:arrow_upper_right:](http://fatiherikli.com/fejax)"
+            ],
+            [
+              "2",
+              "[@eserozvataf](https://github.com/eserozvataf)/[**maester**](https://github.com/eserozvataf/maester)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@onokumus](https://github.com/onokumus)/[**handlebars-helper-hr**](https://github.com/onokumus/handlebars-helper-hr)",
+              "{{hr}} Handlebars helper. Adds `<hr>` tags to generated HTML. Great for prototyping.",
+              ""
+            ],
+            [
+              "2",
+              "[@irfan](https://github.com/irfan)/[**jquery-slider-plugin**](https://github.com/irfan/jquery-slider-plugin)",
+              "Simple & Fast jQuery Slider Plugin",
+              "[:arrow_upper_right:](http://irfandurmus.dev/projects/jquery-slider-plugin/)"
+            ],
+            [
+              "2",
+              "[@fatihacet](https://github.com/fatihacet)/[**google-closure-libra…**](https://github.com/fatihacet/google-closure-library-bootstrap)",
+              "Bootstrap repo for Google's Closure Library and Tools. This repo is ready to develop web application using Google Closure Library, Closure Compiler, Closure DepsWriter, Closure Linter, Closure Templates and Closure Stylesheets.",
+              ""
+            ],
+            [
+              "2",
+              "[@sercaneraslan](https://github.com/sercaneraslan)/[**angular-codepen-dire…**](https://github.com/sercaneraslan/angular-codepen-directive)",
+              "Angular Codepen Directive",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
