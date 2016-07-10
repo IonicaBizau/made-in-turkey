@@ -61,7 +61,8 @@
           "[Objective-C](#objective-c)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -2483,6 +2484,39 @@
               "2",
               "[@askn](https://github.com/askn)/[**code**](https://github.com/askn/code)",
               "my code",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "27",
+              "[@oyediyildiz](https://github.com/oyediyildiz)/[**scala-oauth2-provide…**](https://github.com/oyediyildiz/scala-oauth2-provider-example)",
+              "Example db schema and DataHandler.scala implementation for nulab scala-oauth2-provider",
+              ""
+            ],
+            [
+              "19",
+              "[@agaoglu](https://github.com/agaoglu)/[**udp-kafka-bridge**](https://github.com/agaoglu/udp-kafka-bridge)",
+              "Simple daemon to pass UDP messages to Kafka",
+              ""
+            ],
+            [
+              "2",
+              "[@ferhtaydn](https://github.com/ferhtaydn)/[**sbt-skeleton.g8**](https://github.com/ferhtaydn/sbt-skeleton.g8)",
+              "yet another giter8 template for sbt/scala projects",
               ""
             ]
           ]
