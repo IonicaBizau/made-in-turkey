@@ -55,7 +55,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -1295,6 +1296,57 @@
               "3",
               "[@picussecurity](https://github.com/picussecurity)/[**haskell-cef**](https://github.com/picussecurity/haskell-cef)",
               "This library is used to produce CEF log lines",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "31",
+              "[@deniza](https://github.com/deniza)/[**Ad-Mediator-for-Coro…**](https://github.com/deniza/Ad-Mediator-for-Corona)",
+              "Client side ad mediation module for Ansca Corona",
+              "[:arrow_upper_right:](https://github.com/deniza/Ad-Mediator-for-Corona/wiki/Documentation)"
+            ],
+            [
+              "12",
+              "[@SilentStar](https://github.com/SilentStar)/[**BoLScripts**](https://github.com/SilentStar/BoLScripts)",
+              "Scripts",
+              ""
+            ],
+            [
+              "7",
+              "[@sekodev](https://github.com/sekodev)/[**starter_template_cor…**](https://github.com/sekodev/starter_template_coronasdk)",
+              "Corona SDK Empty Project Template",
+              ""
+            ],
+            [
+              "7",
+              "[@Sophylax](https://github.com/Sophylax)/[**ensage-scripts**](https://github.com/Sophylax/ensage-scripts)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@deniza](https://github.com/deniza)/[**TapIt-Corona-SDK**](https://github.com/deniza/TapIt-Corona-SDK)",
+              "a module to use TapIt ads on your corona applications",
+              ""
+            ],
+            [
+              "2",
+              "[@bwh](https://github.com/bwh)/[**ZebraKarmaFrames**](https://github.com/bwh/ZebraKarmaFrames)",
+              "Experimental Karma Loot Time Optimization Frames",
               ""
             ]
           ]
