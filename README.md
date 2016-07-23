@@ -5,13 +5,6 @@
 
 > A list of neat projects made in Turkey
 
-## :cloud: Installation
-
-```sh
-$ npm i --save made-in-turkey
-```
-
-
 ## Contents
 
  - [JavaScript](#javascript)
@@ -473,31 +466,6 @@ Fully customisable.  |
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@mkatircioglu](https://github.com/mkatircioglu)/[**dotfiles**](https://github.com/mkatircioglu/dotfiles) |  |
-
-## :clipboard: Example
-
-
-
-```js
-const madeInTurkey = require("made-in-turkey");
-
-console.log(madeInTurkey());
-```
-
-## :memo: Documentation
-
-
-### `madeInTurkey(a, b)`
-A list of neat projects made in Turkey
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
-
-
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
