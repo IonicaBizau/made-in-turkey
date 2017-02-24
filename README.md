@@ -191,6 +191,7 @@
 2 | [@alperkonuralp](https://github.com/alperkonuralp)/[**CssOrnekleri**](https://github.com/alperkonuralp/CssOrnekleri) | Css derslerinde yapmış olduğumuz örnekleri paylaşacağımız proje. |
 2 | [@alperkonuralp](https://github.com/alperkonuralp)/[**CSharpOrnekleri**](https://github.com/alperkonuralp/CSharpOrnekleri) | C# derslerinde yapmış olduğumuz örnekleri paylaşacağımız proje. |
 2 | [@Jaex](https://github.com/Jaex)/[**IRCLib**](https://github.com/Jaex/IRCLib) | C# IRC library and simple IRC client |
+839 | [@volkanceylan](https://github.com/volkanceylan)/[**Serenity**](https://github.com/volkanceylan/Serenity) | Business Apps Made Simple with Asp.Net Core MVC / TypeScript | [:arrow_upper_right:](http://serenity.is)
 ### CSS #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
