@@ -27,6 +27,7 @@
  - [Shell](#shell)
  - [Swift](#swift)
  - [VimL](#viml)
+ - [Crystal](#crystal)
 
 ### JavaScript #
 :star2: | Name | Description | 🌍
@@ -467,6 +468,10 @@ Fully customisable.  |
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@mkatircioglu](https://github.com/mkatircioglu)/[**dotfiles**](https://github.com/mkatircioglu/dotfiles) |  |
+### Crystal #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+1372 | [@kemalcr](https://github.com/kemalcr)/[**Kemal**](https://github.com/kemalcr/kemal) | Fast, Effective, Simple web framework for Crystal | [:arrow_upper_right:](http://kemalcr.com/)
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
