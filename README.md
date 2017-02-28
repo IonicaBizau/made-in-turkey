@@ -472,6 +472,7 @@ Fully customisable.  |
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1372 | [@kemalcr](https://github.com/kemalcr)/[**Kemal**](https://github.com/kemalcr/kemal) | Fast, Effective, Simple web framework for Crystal | [:arrow_upper_right:](http://kemalcr.com/)
+131 | [@f](https://github.com/f)/[**Kamber**](https://github.com/f/kamber) | Static site server (basically blogs) with Crystal Language
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
