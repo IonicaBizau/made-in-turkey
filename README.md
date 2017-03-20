@@ -1,7 +1,7 @@
 
 # Made in Turkey
 
- [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][patreon] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-turkey.svg)](https://www.npmjs.com/package/made-in-turkey) [![Downloads](https://img.shields.io/npm/dt/made-in-turkey.svg)](https://www.npmjs.com/package/made-in-turkey) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Version](https://img.shields.io/npm/v/made-in-turkey.svg)](https://www.npmjs.com/package/made-in-turkey) [![Downloads](https://img.shields.io/npm/dt/made-in-turkey.svg)](https://www.npmjs.com/package/made-in-turkey)
 
 > A list of neat projects made in Turkey
 
@@ -27,8 +27,6 @@
  - [Shell](#shell)
  - [Swift](#swift)
  - [VimL](#viml)
- - [Crystal](#crystal)
-
 ### JavaScript #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
@@ -42,7 +40,6 @@
 310 | [@fatiherikli](https://github.com/fatiherikli)/[**dbpatterns**](https://github.com/fatiherikli/dbpatterns) | Dbpatterns is a service that allows you to create, share, explore database models on the web. Built on top of Django, Backbone. Patterns are stored on MongoDB, and uses Lettuce for BDD approach. | [:arrow_upper_right:](http://dbpatterns.com)
 218 | [@fatiherikli](https://github.com/fatiherikli)/[**brainfuck-visualizer**](https://github.com/fatiherikli/brainfuck-visualizer) | Javascript Brainfuck Interpreter and Visualizer. Built with Backbone.js | [:arrow_upper_right:](http://fatiherikli.github.io/brainfuck-visualizer/)
 189 | [@anonrig](https://github.com/anonrig)/[**slack-manager**](https://github.com/anonrig/slack-manager) | Agile Development tool for Slack. Basically, "Standup Meetings in Slack". |
-187 | [@holyjs](https://github.com/holyjs)/[**holyjs00](https://github.com/holyjs/holyjs) | NodeJS Server Project Starter for your next web application. Its also have a nice Yeoman generator.
 130 | [@fatiherikli](https://github.com/fatiherikli)/[**scrumboard**](https://github.com/fatiherikli/scrumboard) | scrumboard application with backbone.js, django and tastypie. | [:arrow_upper_right:](http://scrumboard.herokuapp.com)
 83 | [@fatiherikli](https://github.com/fatiherikli)/[**backbone-autocomplet…**](https://github.com/fatiherikli/backbone-autocomplete) | An auto-complete widget built with Backbone.js | [:arrow_upper_right:](http://fatiherikli.github.com/backbone-autocomplete/)
 79 | [@f](https://github.com/f)/[**pq**](https://github.com/f/pq) | Human Readable Promise Chains |
@@ -174,6 +171,7 @@
 35 | [@Jaex](https://github.com/Jaex)/[**ImageVisualizer**](https://github.com/Jaex/ImageVisualizer) | Visual Studio 2015 Image Visualizer |
 10 | [@detaybey](https://github.com/detaybey)/[**MimeBank**](https://github.com/detaybey/MimeBank) | A small file type checker for dotnet |
 9 | [@fatihboy](https://github.com/fatihboy)/[**RPI.GPIO**](https://github.com/fatihboy/RPI.GPIO) | Enterprisecoding Raspberry Pi C# GPIO library |
+8 | [@merttasci](https://github.com/merttasci)/[**keylogger**](https://github.com/merttasci/keylogger) | Basic Keylogger application with .NET tech. for education  |
 7 | [@fatihboy](https://github.com/fatihboy)/[**Robosapien**](https://github.com/fatihboy/Robosapien) | Remote Control your Robosapien with usb-uirt and Kinect | [:arrow_upper_right:](http://enterprisecoding.com)
 7 | [@efaruk](https://github.com/efaruk)/[**playground**](https://github.com/efaruk/playground) | Playground |
 5 | [@detaybey](https://github.com/detaybey)/[**WrapYoutubeDl**](https://github.com/detaybey/WrapYoutubeDl) | C# wrapper for YouTube-Dl  |
@@ -193,7 +191,6 @@
 2 | [@alperkonuralp](https://github.com/alperkonuralp)/[**CssOrnekleri**](https://github.com/alperkonuralp/CssOrnekleri) | Css derslerinde yapmış olduğumuz örnekleri paylaşacağımız proje. |
 2 | [@alperkonuralp](https://github.com/alperkonuralp)/[**CSharpOrnekleri**](https://github.com/alperkonuralp/CSharpOrnekleri) | C# derslerinde yapmış olduğumuz örnekleri paylaşacağımız proje. |
 2 | [@Jaex](https://github.com/Jaex)/[**IRCLib**](https://github.com/Jaex/IRCLib) | C# IRC library and simple IRC client |
-839 | [@volkanceylan](https://github.com/volkanceylan)/[**Serenity**](https://github.com/volkanceylan/Serenity) | Business Apps Made Simple with Asp.Net Core MVC / TypeScript | [:arrow_upper_right:](http://serenity.is)
 ### CSS #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
@@ -420,7 +417,6 @@
 ### Ruby #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-4464 | [@seyhunak](https://github.com/seyhunak)/[**twitter-bootstrap-rails**](https://github.com/seyhunak/twitter-bootstrap-rails) | Twitter Bootstrap for Rails 5 - 4.x Asset Pipeline |
 79 | [@marjinal1st](https://github.com/marjinal1st)/[**medium-editor-rails**](https://github.com/marjinal1st/medium-editor-rails) | Medium Editor integrated in Rails Asset Pipeline |
 56 | [@emrekutlu](https://github.com/emrekutlu)/[**paperclip-compressio…**](https://github.com/emrekutlu/paperclip-compression) | image compression processor for Paperclip |
 52 | [@sbagdat](https://github.com/sbagdat)/[**turkish_support**](https://github.com/sbagdat/turkish_support) | Turkish character support for core ruby methods.  |
@@ -469,35 +465,43 @@ Fully customisable.  |
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@mkatircioglu](https://github.com/mkatircioglu)/[**dotfiles**](https://github.com/mkatircioglu/dotfiles) |  |
-### Crystal #
-:star2: | Name | Description | 🌍
---- | --- | --- | ---
-1372 | [@kemalcr](https://github.com/kemalcr)/[**Kemal**](https://github.com/kemalcr/kemal) | Fast, Effective, Simple web framework for Crystal | [:arrow_upper_right:](http://kemalcr.com/)
-131 | [@f](https://github.com/f)/[**Kamber**](https://github.com/f/kamber) | Static site server (basically blogs) with Crystal Language
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 
-## :moneybag: Donations
+## :sparkling_heart: Support my projects
 
-Another way to support the development of my open-source modules is
-to [set up a recurring donation, via Patreon][patreon]. :rocket:
+I open-source almost everything I can, and I try to reply everyone needing help using these projects. Obviously,
+this takes time. You can integrate and use these projects in your applications *for free*! You can even change the source code and redistribute (even resell it).
 
-[PayPal donations][paypal-donations] are appreciated too! Each dollar helps.
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
+
+ - Starring and sharing the projects you like :rocket:
+ - [![PayPal][badge_paypal]][paypal-donations]—You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+ - [![Support me on Patreon][badge_patreon]][patreon]—Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
+ - **Bitcoin**—You can send me bitcoins at this address (or scanning the code below): `1P9BRsmazNQcuyTxEqveUsnf5CERdq35V6`
+
+    ![](https://i.imgur.com/z6OQI95.png)
 
 Thanks! :heart:
+
 
 
 ## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
+[badge_patreon]: http://ionicabizau.github.io/badges/patreon.svg
+[badge_amazon]: http://ionicabizau.github.io/badges/amazon.svg
+[badge_paypal]: http://ionicabizau.github.io/badges/paypal.svg
+[badge_paypal_donate]: http://ionicabizau.github.io/badges/paypal_donate.svg
 [patreon]: https://www.patreon.com/ionicabizau
+[amazon]: http://amzn.eu/hRo9sIZ
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
-[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(http%3A%2F%2Fionicabizau.net)&year=2016#license-mit
-[website]: http://ionicabizau.net
+[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(https%3A%2F%2Fionicabizau.net)&year=2016#license-mit
+[website]: https://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
