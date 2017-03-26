@@ -168,6 +168,7 @@
 ### C# #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+2464 | [@aspnetboilerplate](https://github.com/aspnetboilerplate)/[**ASP.NET Boilerplate**](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET MVC Boilerplate - Application Framework | [:arrow_upper_right:](http://www.aspnetboilerplate.com/)
 153 | [@emreeren](https://github.com/emreeren)/[**SambaPOS-3**](https://github.com/emreeren/SambaPOS-3) | Touch Screen Restaurant POS | [:arrow_upper_right:](sambapos.com)
 35 | [@Jaex](https://github.com/Jaex)/[**ImageVisualizer**](https://github.com/Jaex/ImageVisualizer) | Visual Studio 2015 Image Visualizer |
 10 | [@detaybey](https://github.com/detaybey)/[**MimeBank**](https://github.com/detaybey/MimeBank) | A small file type checker for dotnet |
