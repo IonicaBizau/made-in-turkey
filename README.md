@@ -321,6 +321,7 @@
 2 | [@o](https://github.com/o)/[**seven**](https://github.com/o/seven) | Web-based interface for browsing subversion repositories |
 2 | [@hdogan](https://github.com/hdogan)/[**HTAdmin**](https://github.com/hdogan/HTAdmin) | Ancient code of HTAdmin a simple PHP tool for administrating Apache .htpasswd files. |
 2 | [@o](https://github.com/o)/[**metric-collector**](https://github.com/o/metric-collector) | Library for collecting local and remote system performance statistics |
+1 | [@labkod](https://github.com/labkod)/[**laravel-config**](https://github.com/labkod/laravel-config) | Laravel JSON Config Package |
 ### Python #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
