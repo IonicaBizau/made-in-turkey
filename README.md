@@ -146,6 +146,7 @@
 59 | [@iorixxx](https://github.com/iorixxx)/[**lucene-solr-analysis…**](https://github.com/iorixxx/lucene-solr-analysis-turkish) | Turkish analysis components for Apache Lucene/Solr  |
 22 | [@iammert](https://github.com/iammert)/[**WaterWatchFace**](https://github.com/iammert/WaterWatchFace) | Android wear watchface |
 18 | [@halilkaya](https://github.com/halilkaya)/[**golbat**](https://github.com/halilkaya/golbat) |  Golbat is an Android library that helps you on working with camera, gallery and output and its encoded types.  |
+12 | [@onurgurbuz](https://github.com/onurgurbuz)/[**Stok-Takip-Otomasyonu**](https://github.com/onurgurbuz/Stok-Takip-Otomasyonu) | Java ile geliştirilen Stok Takip Otomasyonu |
 10 | [@iammert](https://github.com/iammert)/[**DotLineWatchface**](https://github.com/iammert/DotLineWatchface) | Android wear watchface |
 8 | [@mulderbaba](https://github.com/mulderbaba)/[**EWALectureNotes**](https://github.com/mulderbaba/EWALectureNotes) | Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacettepe University |
 8 | [@iammert](https://github.com/iammert)/[**Dagger2Example**](https://github.com/iammert/Dagger2Example) | Basic Dagger 2 Dependency Injection example |
@@ -168,11 +169,11 @@
 ### C# #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+2464 | [@aspnetboilerplate](https://github.com/aspnetboilerplate)/[**ASP.NET Boilerplate**](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET MVC Boilerplate - Application Framework | [:arrow_upper_right:](http://www.aspnetboilerplate.com/)
 153 | [@emreeren](https://github.com/emreeren)/[**SambaPOS-3**](https://github.com/emreeren/SambaPOS-3) | Touch Screen Restaurant POS | [:arrow_upper_right:](sambapos.com)
 35 | [@Jaex](https://github.com/Jaex)/[**ImageVisualizer**](https://github.com/Jaex/ImageVisualizer) | Visual Studio 2015 Image Visualizer |
 10 | [@detaybey](https://github.com/detaybey)/[**MimeBank**](https://github.com/detaybey/MimeBank) | A small file type checker for dotnet |
 9 | [@fatihboy](https://github.com/fatihboy)/[**RPI.GPIO**](https://github.com/fatihboy/RPI.GPIO) | Enterprisecoding Raspberry Pi C# GPIO library |
-8 | [@merttasci](https://github.com/merttasci)/[**keylogger**](https://github.com/merttasci/keylogger) | Basic Keylogger application with .NET tech. for education  |
 7 | [@fatihboy](https://github.com/fatihboy)/[**Robosapien**](https://github.com/fatihboy/Robosapien) | Remote Control your Robosapien with usb-uirt and Kinect | [:arrow_upper_right:](http://enterprisecoding.com)
 7 | [@efaruk](https://github.com/efaruk)/[**playground**](https://github.com/efaruk/playground) | Playground |
 5 | [@detaybey](https://github.com/detaybey)/[**WrapYoutubeDl**](https://github.com/detaybey/WrapYoutubeDl) | C# wrapper for YouTube-Dl  |
@@ -228,6 +229,7 @@
 ### Go #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+22 | [@aligoren](https://github.com/aligoren)/[**gofret**](https://github.com/aligoren/gofret) | gofret is a Download Manager written in Go. | [:arrow_upper_right:](http://aligoren.github.io/gofret/)
 3 | [@muratsplat](https://github.com/muratsplat)/[**highLevelStat**](https://github.com/muratsplat/highLevelStat) | A basic Go package that gets informations of system status on only Gnu/Linux Os  |
 3 | [@otsimo](https://github.com/otsimo)/[**simple-notifications**](https://github.com/otsimo/simple-notifications) | Push, Email, SMS notifications with multiple backends |
 2 | [@fatihpense](https://github.com/fatihpense)/[**goritmic**](https://github.com/fatihpense/goritmic) | Google Codejam Solutions |
@@ -305,6 +307,7 @@
 6 | [@ekrembk](https://github.com/ekrembk)/[**vakifbank-pos**](https://github.com/ekrembk/vakifbank-pos) | Vakıfbank sanal posu için PHP library. |
 6 | [@muatik](https://github.com/muatik)/[**kelimeci**](https://github.com/muatik/kelimeci) | yabancı dildeki kelimelerin öğrenilmesini kolaylaştıran araç | [:arrow_upper_right:](http://cookingthecode.com/)
 5 | [@mustafauysal](https://github.com/mustafauysal)/[**wph-breaking-news**](https://github.com/mustafauysal/wph-breaking-news) | Breaking news plugin for WordPress | [:arrow_upper_right:](http://wordpress.org/plugins/wph-breaking-news/)
+5 | [@worlds](https://github.com/worlds)/[**Mutasyon2**](https://github.com/worlds/mutasyon2) | Musteri Takip ve Stok Yonetimi | 
 3 | [@kemalkanok](https://github.com/kemalkanok)/[**blog-with-xml**](https://github.com/kemalkanok/blog-with-xml) | blogs wich using xml as a db with ajax and seo optimization |
 3 | [@asilbalaban](https://github.com/asilbalaban)/[**tutorial-cuzdan**](https://github.com/asilbalaban/tutorial-cuzdan) |  |
 3 | [@muhittin](https://github.com/muhittin)/[**fuelphp_recaptcha**](https://github.com/muhittin/fuelphp_recaptcha) | Re-Captcha Package for FuelPHP Framework |
@@ -318,6 +321,7 @@
 2 | [@o](https://github.com/o)/[**seven**](https://github.com/o/seven) | Web-based interface for browsing subversion repositories |
 2 | [@hdogan](https://github.com/hdogan)/[**HTAdmin**](https://github.com/hdogan/HTAdmin) | Ancient code of HTAdmin a simple PHP tool for administrating Apache .htpasswd files. |
 2 | [@o](https://github.com/o)/[**metric-collector**](https://github.com/o/metric-collector) | Library for collecting local and remote system performance statistics |
+1 | [@labkod](https://github.com/labkod)/[**laravel-config**](https://github.com/labkod/laravel-config) | Laravel JSON Config Package |
 ### Python #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
