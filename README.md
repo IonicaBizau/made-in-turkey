@@ -146,6 +146,7 @@
 59 | [@iorixxx](https://github.com/iorixxx)/[**lucene-solr-analysis…**](https://github.com/iorixxx/lucene-solr-analysis-turkish) | Turkish analysis components for Apache Lucene/Solr  |
 22 | [@iammert](https://github.com/iammert)/[**WaterWatchFace**](https://github.com/iammert/WaterWatchFace) | Android wear watchface |
 18 | [@halilkaya](https://github.com/halilkaya)/[**golbat**](https://github.com/halilkaya/golbat) |  Golbat is an Android library that helps you on working with camera, gallery and output and its encoded types.  |
+12 | [@onurgurbuz](https://github.com/onurgurbuz)/[**Stok-Takip-Otomasyonu**](https://github.com/onurgurbuz/Stok-Takip-Otomasyonu) | Java ile geliştirilen Stok Takip Otomasyonu |
 10 | [@iammert](https://github.com/iammert)/[**DotLineWatchface**](https://github.com/iammert/DotLineWatchface) | Android wear watchface |
 8 | [@mulderbaba](https://github.com/mulderbaba)/[**EWALectureNotes**](https://github.com/mulderbaba/EWALectureNotes) | Slides and Lecture Notes notes for Enterprise Web Architecture Lecture for Hacettepe University |
 8 | [@iammert](https://github.com/iammert)/[**Dagger2Example**](https://github.com/iammert/Dagger2Example) | Basic Dagger 2 Dependency Injection example |
@@ -229,6 +230,7 @@
 ### Go #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+22 | [@aligoren](https://github.com/aligoren)/[**gofret**](https://github.com/aligoren/gofret) | gofret is a Download Manager written in Go. | [:arrow_upper_right:](http://aligoren.github.io/gofret/)
 3 | [@muratsplat](https://github.com/muratsplat)/[**highLevelStat**](https://github.com/muratsplat/highLevelStat) | A basic Go package that gets informations of system status on only Gnu/Linux Os  |
 3 | [@otsimo](https://github.com/otsimo)/[**simple-notifications**](https://github.com/otsimo/simple-notifications) | Push, Email, SMS notifications with multiple backends |
 2 | [@fatihpense](https://github.com/fatihpense)/[**goritmic**](https://github.com/fatihpense/goritmic) | Google Codejam Solutions |
@@ -306,6 +308,7 @@
 6 | [@ekrembk](https://github.com/ekrembk)/[**vakifbank-pos**](https://github.com/ekrembk/vakifbank-pos) | Vakıfbank sanal posu için PHP library. |
 6 | [@muatik](https://github.com/muatik)/[**kelimeci**](https://github.com/muatik/kelimeci) | yabancı dildeki kelimelerin öğrenilmesini kolaylaştıran araç | [:arrow_upper_right:](http://cookingthecode.com/)
 5 | [@mustafauysal](https://github.com/mustafauysal)/[**wph-breaking-news**](https://github.com/mustafauysal/wph-breaking-news) | Breaking news plugin for WordPress | [:arrow_upper_right:](http://wordpress.org/plugins/wph-breaking-news/)
+5 | [@worlds](https://github.com/worlds)/[**Mutasyon2**](https://github.com/worlds/mutasyon2) | Musteri Takip ve Stok Yonetimi | 
 3 | [@kemalkanok](https://github.com/kemalkanok)/[**blog-with-xml**](https://github.com/kemalkanok/blog-with-xml) | blogs wich using xml as a db with ajax and seo optimization |
 3 | [@asilbalaban](https://github.com/asilbalaban)/[**tutorial-cuzdan**](https://github.com/asilbalaban/tutorial-cuzdan) |  |
 3 | [@muhittin](https://github.com/muhittin)/[**fuelphp_recaptcha**](https://github.com/muhittin/fuelphp_recaptcha) | Re-Captcha Package for FuelPHP Framework |
