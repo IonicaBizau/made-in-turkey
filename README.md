@@ -174,7 +174,6 @@
 35 | [@Jaex](https://github.com/Jaex)/[**ImageVisualizer**](https://github.com/Jaex/ImageVisualizer) | Visual Studio 2015 Image Visualizer |
 10 | [@detaybey](https://github.com/detaybey)/[**MimeBank**](https://github.com/detaybey/MimeBank) | A small file type checker for dotnet |
 9 | [@fatihboy](https://github.com/fatihboy)/[**RPI.GPIO**](https://github.com/fatihboy/RPI.GPIO) | Enterprisecoding Raspberry Pi C# GPIO library |
-8 | [@merttasci](https://github.com/merttasci)/[**keylogger**](https://github.com/merttasci/keylogger) | Basic Keylogger application with .NET tech. for education  |
 7 | [@fatihboy](https://github.com/fatihboy)/[**Robosapien**](https://github.com/fatihboy/Robosapien) | Remote Control your Robosapien with usb-uirt and Kinect | [:arrow_upper_right:](http://enterprisecoding.com)
 7 | [@efaruk](https://github.com/efaruk)/[**playground**](https://github.com/efaruk/playground) | Playground |
 5 | [@detaybey](https://github.com/detaybey)/[**WrapYoutubeDl**](https://github.com/detaybey/WrapYoutubeDl) | C# wrapper for YouTube-Dl  |
