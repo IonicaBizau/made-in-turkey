@@ -768,6 +768,11 @@
               ""
             ],
             [
+              "12",
+              "[@onurgurbuz](https://github.com/onurgurbuz)/[**Stok-Takip-Otomasyonu**](https://github.com/onurgurbuz/Stok-Takip-Otomasyonu)",
+              "Java ile geliştirilen Stok Takip Otomasyonu",
+              ""
+            ],[
               "10",
               "[@iammert](https://github.com/iammert)/[**DotLineWatchface**](https://github.com/iammert/DotLineWatchface)",
               "Android wear watchface",
@@ -897,10 +902,15 @@
           ],
           "rows": [
             [
+              "2464",
+              "[@aspnetboilerplate](https://github.com/aspnetboilerplate)/[**aspnetboilerplate**](https://github.com/aspnetboilerplate/aspnetboilerplate)",
+              "ASP.NET MVC Boilerplate - Application Framework",
+              "[:arrow_upper_right:](http://www.aspnetboilerplate.com/)"
+            ],[
               "153",
               "[@emreeren](https://github.com/emreeren)/[**SambaPOS-3**](https://github.com/emreeren/SambaPOS-3)",
               "Touch Screen Restaurant POS",
-              "[:arrow_upper_right:](sambapos.com)"
+              "[:arrow_upper_right:](http://sambapos.com)"
             ],
             [
               "35",
@@ -918,12 +928,6 @@
               "9",
               "[@fatihboy](https://github.com/fatihboy)/[**RPI.GPIO**](https://github.com/fatihboy/RPI.GPIO)",
               "Enterprisecoding Raspberry Pi C# GPIO library",
-              ""
-            ],
-            [
-              "8",
-              "[@merttasci](https://github.com/merttasci)/[**keylogger**](https://github.com/merttasci/keylogger)",
-              "Basic Keylogger application with .NET tech. for education ",
               ""
             ],
             [
@@ -1239,9 +1243,14 @@
           ],
           "rows": [
             [
+              "22",
+              "[@aligoren](https://github.com/aligoren)/[**gofret**](https://github.com/aligoren/gofret)",
+              "gofret is a Download Manager written in Go.",
+              "[:arrow_upper_right:](http://aligoren.github.io/gofret/)"
+            ],[
               "3",
               "[@muratsplat](https://github.com/muratsplat)/[**highLevelStat**](https://github.com/muratsplat/highLevelStat)",
-              "A basic Go package that gets informations of system status on only Gnu/Linux Os ",
+              "A basic Go package that gets informations of system status on only Gnu/Linux Os",
               ""
             ],
             [
@@ -1681,11 +1690,16 @@
             ],
             [
               "5",
+              "[@worlds](https://github.com/worlds)/[**Mutasyon2**](https://github.com/worlds/Mutasyon2)",
+              "Musteri Takip ve Stok Yonetimi",
+              ""
+            ],
+            [
+              "5",
               "[@mustafauysal](https://github.com/mustafauysal)/[**wph-breaking-news**](https://github.com/mustafauysal/wph-breaking-news)",
               "Breaking news plugin for WordPress",
               "[:arrow_upper_right:](http://wordpress.org/plugins/wph-breaking-news/)"
-            ],
-            [
+            ],[
               "3",
               "[@kemalkanok](https://github.com/kemalkanok)/[**blog-with-xml**](https://github.com/kemalkanok/blog-with-xml)",
               "blogs wich using xml as a db with ajax and seo optimization",
@@ -1761,6 +1775,12 @@
               "2",
               "[@o](https://github.com/o)/[**metric-collector**](https://github.com/o/metric-collector)",
               "Library for collecting local and remote system performance statistics",
+              ""
+            ],
+            [
+              "1",
+              "[@labkod](https://github.com/labkod)/[**laravel-config**](https://github.com/labkod/laravel-config)",
+              "Laravel JSON Config Package",
               ""
             ]
           ]
