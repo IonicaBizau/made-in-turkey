@@ -307,7 +307,7 @@
 6 | [@ekrembk](https://github.com/ekrembk)/[**vakifbank-pos**](https://github.com/ekrembk/vakifbank-pos) | Vakıfbank sanal posu için PHP library. |
 6 | [@muatik](https://github.com/muatik)/[**kelimeci**](https://github.com/muatik/kelimeci) | yabancı dildeki kelimelerin öğrenilmesini kolaylaştıran araç | [:arrow_upper_right:](http://cookingthecode.com/)
 5 | [@mustafauysal](https://github.com/mustafauysal)/[**wph-breaking-news**](https://github.com/mustafauysal/wph-breaking-news) | Breaking news plugin for WordPress | [:arrow_upper_right:](http://wordpress.org/plugins/wph-breaking-news/)
-5 | [@worlds](https://github.com/worlds)/[**Mutasyon2**](https://github.com/worlds/mutasyon2) | Musteri Takip ve Stok Yonetimi | 
+5 | [@worlds](https://github.com/worlds)/[**Mutasyon2**](https://github.com/worlds/mutasyon2) | Musteri Takip ve Stok Yonetimi |
 3 | [@kemalkanok](https://github.com/kemalkanok)/[**blog-with-xml**](https://github.com/kemalkanok/blog-with-xml) | blogs wich using xml as a db with ajax and seo optimization |
 3 | [@asilbalaban](https://github.com/asilbalaban)/[**tutorial-cuzdan**](https://github.com/asilbalaban/tutorial-cuzdan) |  |
 3 | [@muhittin](https://github.com/muhittin)/[**fuelphp_recaptcha**](https://github.com/muhittin/fuelphp_recaptcha) | Re-Captcha Package for FuelPHP Framework |
@@ -444,6 +444,9 @@
 2 | [@hamitturkukaya](https://github.com/hamitturkukaya)/[**exchangeservice**](https://github.com/hamitturkukaya/exchangeservice) |  |
 2 | [@ismailakbudak](https://github.com/ismailakbudak)/[**sql-query**](https://github.com/ismailakbudak/sql-query) | Advanced relational model and sql-query example with Ruby on Rails |
 2 | [@askn](https://github.com/askn)/[**code**](https://github.com/askn/code) | my code |
+0 | [@muratbsts](https://github.com/muratbsts)/[**tw-destroyer**](https://github.com/muratbsts/tw-destroyer) | Eski tweet'leri filtreleyip silebileceğiniz bir rails uygulaması. |
+12 | [@muratbsts](https://github.com/muratbsts)/[**kaca**](https://github.com/muratbsts/kaca) | Basit bir döviz çevirme uygulaması. Kaca X alabilirsiniz / satabilirsiniz, favori cli'nizden öğrenin. |
+3 | [@muratbsts](https://github.com/muratbsts)/[**ruby-autolinker**](https://github.com/muratbsts/ruby-autolinker) | Find and replace urls with html link tag in given string. |
 ### Scala #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---

@@ -2508,6 +2508,24 @@
               "[@askn](https://github.com/askn)/[**code**](https://github.com/askn/code)",
               "my code",
               ""
+            ],
+            [
+              "0",
+              "[@muratbsts](https://github.com/muratbsts)/[**tw-destroyer**](https://github.com/muratbsts/tw-destroyer)",
+              "Eski tweet'leri filtreleyip silebileceğiniz bir rails uygulaması.",
+              ""
+            ],
+            [
+              "12",
+              "[@muratbsts](https://github.com/muratbsts)/[**kaca**](https://github.com/muratbsts/kaca)",
+              "Basit bir döviz çevirme uygulaması. Kaca X alabilirsiniz / satabilirsiniz, favori cli'nizden öğrenin.",
+              ""
+            ],
+            [
+              "3",
+              "[@muratbsts](https://github.com/muratbsts)/[**ruby-autolinker**](https://github.com/muratbsts/ruby-autolinker)",
+              "Find and replace urls with html link tag in given string.",
+              ""
             ]
           ]
         }
