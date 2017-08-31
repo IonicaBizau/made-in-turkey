@@ -447,6 +447,7 @@
 0 | [@muratbsts](https://github.com/muratbsts)/[**tw-destroyer**](https://github.com/muratbsts/tw-destroyer) | Eski tweet'leri filtreleyip silebileceğiniz bir rails uygulaması. |
 12 | [@muratbsts](https://github.com/muratbsts)/[**kaca**](https://github.com/muratbsts/kaca) | Basit bir döviz çevirme uygulaması. Kaca X alabilirsiniz / satabilirsiniz, favori cli'nizden öğrenin. |
 3 | [@muratbsts](https://github.com/muratbsts)/[**ruby-autolinker**](https://github.com/muratbsts/ruby-autolinker) | Find and replace urls with html link tag in given string. |
+18 | [@muratbsts](https://github.com/muratbsts)/[**tors**](https://github.com/muratbsts/tors) | Yet another torrent searching application for your command line. But this has an option for automatically download the best torrent. |
 ### Scala #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
