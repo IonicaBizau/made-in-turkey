@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -31,6 +32,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4607 | [@needim](https://github.com/needim)/[**noty**](https://github.com/needim/noty) | noty is a jQuery notification plugin that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog. | [:arrow_upper_right:](http://ned.im/noty)
@@ -134,7 +136,9 @@
 2 | [@irfan](https://github.com/irfan)/[**jquery-slider-plugin**](https://github.com/irfan/jquery-slider-plugin) | Simple & Fast jQuery Slider Plugin | [:arrow_upper_right:](http://irfandurmus.dev/projects/jquery-slider-plugin/)
 2 | [@fatihacet](https://github.com/fatihacet)/[**google-closure-libra…**](https://github.com/fatihacet/google-closure-library-bootstrap) | Bootstrap repo for Google's Closure Library and Tools. This repo is ready to develop web application using Google Closure Library, Closure Compiler, Closure DepsWriter, Closure Linter, Closure Templates and Closure Stylesheets. |
 2 | [@sercaneraslan](https://github.com/sercaneraslan)/[**angular-codepen-dire…**](https://github.com/sercaneraslan/angular-codepen-directive) | Angular Codepen Directive |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1285 | [@iammert](https://github.com/iammert)/[**MaterialIntroView**](https://github.com/iammert/MaterialIntroView) | Material Intro View is a showcase android library. |
@@ -168,7 +172,9 @@
 2 | [@mertkahyaoglu](https://github.com/mertkahyaoglu)/[**android-login-regist…**](https://github.com/mertkahyaoglu/android-login-register-system) | Built with node.js(express.js) and mysql on the server-side and Android Volley HTTP library on the client side for transmitting network data |
 2 | [@iammert](https://github.com/iammert)/[**yemeksepetiparser**](https://github.com/iammert/yemeksepetiparser) |  |
 2 | [@mulderbaba](https://github.com/mulderbaba)/[**8GreatlyUnderusedFea…**](https://github.com/mulderbaba/8GreatlyUnderusedFeaturesOfJUnit) | Java Magazine Article Examples for 8 Essential Features of JUnit |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2464 | [@aspnetboilerplate](https://github.com/aspnetboilerplate)/[**aspnetboilerplate**](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET MVC Boilerplate - Application Framework | [:arrow_upper_right:](http://www.aspnetboilerplate.com/)
@@ -195,40 +201,52 @@
 2 | [@alperkonuralp](https://github.com/alperkonuralp)/[**CssOrnekleri**](https://github.com/alperkonuralp/CssOrnekleri) | Css derslerinde yapmış olduğumuz örnekleri paylaşacağımız proje. |
 2 | [@alperkonuralp](https://github.com/alperkonuralp)/[**CSharpOrnekleri**](https://github.com/alperkonuralp/CSharpOrnekleri) | C# derslerinde yapmış olduğumuz örnekleri paylaşacağımız proje. |
 2 | [@Jaex](https://github.com/Jaex)/[**IRCLib**](https://github.com/Jaex/IRCLib) | C# IRC library and simple IRC client |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 13 | [@baransomakli](https://github.com/baransomakli)/[**softgrid**](https://github.com/baransomakli/softgrid) | Soft Grid CSS Framework |
 7 | [@webexxe](https://github.com/webexxe)/[**step.js**](https://github.com/webexxe/step.js) | Step by step form interface |
 2 | [@livacengiz](https://github.com/livacengiz)/[**flat-menu**](https://github.com/livacengiz/flat-menu) | flat menu design for background color |
 2 | [@baransomakli](https://github.com/baransomakli)/[**flexiblegs-sample**](https://github.com/baransomakli/flexiblegs-sample) |  |
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@dotKa](https://github.com/dotKa)/[**imagescrape**](https://github.com/dotKa/imagescrape) | Görsel Çekme Botu |
 3 | [@deralation](https://github.com/deralation)/[**socialbug**](https://github.com/deralation/socialbug) |  |
 2 | [@altugyigit](https://github.com/altugyigit)/[**BioMatch**](https://github.com/altugyigit/BioMatch) | Matching Algorithms |
 2 | [@deralation](https://github.com/deralation)/[**test-repo**](https://github.com/deralation/test-repo) |  |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 68 | [@abdsec](https://github.com/abdsec)/[**CVE-2016-0801**](https://github.com/abdsec/CVE-2016-0801) |  |
 4 | [@dirtybit](https://github.com/dirtybit)/[**event-capture**](https://github.com/dirtybit/event-capture) | Android input event capture/replay tool |
 2 | [@ergenekonyigit](https://github.com/ergenekonyigit)/[**Number-Mind**](https://github.com/ergenekonyigit/Number-Mind) | Project Euler Problem 185 |
 2 | [@kyasar](https://github.com/kyasar)/[**apkg**](https://github.com/kyasar/apkg) | Atlas Package Manager - A lightweight embedded package manager application and library |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@cagdasc](https://github.com/cagdasc)/[**BeagleBoneBlack-I2C**](https://github.com/cagdasc/BeagleBoneBlack-I2C) | BeagleBone Black I2C Library | [:arrow_upper_right:](http://www.expcodes.blogspot.com/)
 2 | [@onuryurtturk](https://github.com/onuryurtturk)/[**MazeGame**](https://github.com/onuryurtturk/MazeGame) | Maze Game developed with C Programming Language |
 2 | [@bilalcorbacioglu](https://github.com/bilalcorbacioglu)/[**Secret-Sharing**](https://github.com/bilalcorbacioglu/Secret-Sharing) | Shamir's Secret Sharing(Image) Algorithm |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@serbulent](https://github.com/serbulent)/[**flex-interactive-cal…**](https://github.com/serbulent/flex-interactive-calendar) | flex-interactive-calendar | [:arrow_upper_right:](http://code.google.com/p/flex-interactive-calendar/)
 3 | [@alinakipoglu](https://github.com/alinakipoglu)/[**Litespell-GameEngine**](https://github.com/alinakipoglu/Litespell-GameEngine) | A Actionscript based GameEngine |
 3 | [@alinakipoglu](https://github.com/alinakipoglu)/[**Actionscript-PathUti…**](https://github.com/alinakipoglu/Actionscript-PathUtils) | A Path utility classes for working with quadratic, bezier and line sequences |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 22 | [@aligoren](https://github.com/aligoren)/[**gofret**](https://github.com/aligoren/gofret) | gofret is a Download Manager written in Go. | [:arrow_upper_right:](http://aligoren.github.io/gofret/)
@@ -238,13 +256,17 @@
 2 | [@otsimo](https://github.com/otsimo)/[**listener**](https://github.com/otsimo/listener) | Otsimo Analysis Event Listener |
 2 | [@otsimo](https://github.com/otsimo)/[**grpc-health**](https://github.com/otsimo/grpc-health) | Grpc Health Check Sidecar for Kubernetes |
 2 | [@otsimo](https://github.com/otsimo)/[**distribution**](https://github.com/otsimo/distribution) |  |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 9 | [@aycanirican](https://github.com/aycanirican)/[**hlibev**](https://github.com/aycanirican/hlibev) | FFI interface to libev |
 8 | [@aycanirican](https://github.com/aycanirican)/[**hweblib**](https://github.com/aycanirican/hweblib) | Haskell Web Library |
 3 | [@picussecurity](https://github.com/picussecurity)/[**haskell-cef**](https://github.com/picussecurity/haskell-cef) | This library is used to produce CEF log lines |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 31 | [@deniza](https://github.com/deniza)/[**Ad-Mediator-for-Coro…**](https://github.com/deniza/Ad-Mediator-for-Corona) | Client side ad mediation module for Ansca Corona | [:arrow_upper_right:](https://github.com/deniza/Ad-Mediator-for-Corona/wiki/Documentation)
@@ -253,13 +275,17 @@
 7 | [@Sophylax](https://github.com/Sophylax)/[**ensage-scripts**](https://github.com/Sophylax/ensage-scripts) |  |
 3 | [@deniza](https://github.com/deniza)/[**TapIt-Corona-SDK**](https://github.com/deniza/TapIt-Corona-SDK) | a module to use TapIt ads on your corona applications |
 2 | [@bwh](https://github.com/bwh)/[**ZebraKarmaFrames**](https://github.com/bwh/ZebraKarmaFrames) | Experimental Karma Loot Time Optimization Frames |
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@gokhanozbulak](https://github.com/gokhanozbulak)/[**Harris-Detector**](https://github.com/gokhanozbulak/Harris-Detector) | A Harris corner detection implementation written in Matlab. |
 2 | [@OzlemTugrul](https://github.com/OzlemTugrul)/[**Matlab.code**](https://github.com/OzlemTugrul/Matlab.code) |  |
 2 | [@hkayabilisim](https://github.com/hkayabilisim)/[**TSCU**](https://github.com/hkayabilisim/TSCU) | Time Series Classification Utility |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 937 | [@iltercengiz](https://github.com/iltercengiz)/[**ICViewPager**](https://github.com/iltercengiz/ICViewPager) | A tab view that mimics ActionBarSherlock's FragmentsTabsPager and Google Play app's tab management. |
@@ -290,7 +316,9 @@
 2 | [@iltercengiz](https://github.com/iltercengiz)/[**CommonFormattersKit**](https://github.com/iltercengiz/CommonFormattersKit) | Common formatters we use in almost every project |
 2 | [@iltercengiz](https://github.com/iltercengiz)/[**ICParallaxViewContro…**](https://github.com/iltercengiz/ICParallaxViewController) | A parallax header implementation with collection view |
 2 | [@iltercengiz](https://github.com/iltercengiz)/[**SSL**](https://github.com/iltercengiz/SSL) | SSL test with AFNetworking and SocketRocket |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 164 | [@o](https://github.com/o)/[**sitemap-php**](https://github.com/o/sitemap-php) | Library for generating Google sitemap XML files |
@@ -324,7 +352,9 @@
 2 | [@hdogan](https://github.com/hdogan)/[**HTAdmin**](https://github.com/hdogan/HTAdmin) | Ancient code of HTAdmin a simple PHP tool for administrating Apache .htpasswd files. |
 2 | [@o](https://github.com/o)/[**metric-collector**](https://github.com/o/metric-collector) | Library for collecting local and remote system performance statistics |
 1 | [@labkod](https://github.com/labkod)/[**laravel-config**](https://github.com/labkod/laravel-config) | Laravel JSON Config Package |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2531 | [@emre](https://github.com/emre)/[**storm**](https://github.com/emre/storm) | Manage your SSH like a boss. | [:arrow_upper_right:](http://stormssh.readthedocs.org/en/master/)
@@ -421,7 +451,9 @@
 2 | [@halitalptekin](https://github.com/halitalptekin)/[**Araci**](https://github.com/halitalptekin/Araci) | My first PyQt application(Simple text searcher in file) |
 2 | [@emre](https://github.com/emre)/[**btcturk-ticker**](https://github.com/emre/btcturk-ticker) | bitcoin price ticker for your command line. |
 2 | [@tdgunes](https://github.com/tdgunes)/[**tdgsync**](https://github.com/tdgunes/tdgsync) | Tracks your computer's internet ip, syncs it to a defined ftp server if anything changes. And also sends tweets about your computer's status!  |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 79 | [@marjinal1st](https://github.com/marjinal1st)/[**medium-editor-rails**](https://github.com/marjinal1st/medium-editor-rails) | Medium Editor integrated in Rails Asset Pipeline |
@@ -450,13 +482,17 @@
 14 | [@muratbsts](https://github.com/muratbsts)/[**kaca**](https://github.com/muratbsts/kaca) | Basit bir döviz çevirme uygulaması. Kaca X alabilirsiniz / satabilirsiniz, favori cli'nizden öğrenin. |
 4 | [@muratbsts](https://github.com/muratbsts)/[**ruby-autolinker**](https://github.com/muratbsts/ruby-autolinker) | Find and replace urls with html link tag in given string. |
 18 | [@muratbsts](https://github.com/muratbsts)/[**tors**](https://github.com/muratbsts/tors) | Yet another torrent searching application for your command line. But this has an option for automatically download the best torrent. |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 27 | [@oyediyildiz](https://github.com/oyediyildiz)/[**scala-oauth2-provide…**](https://github.com/oyediyildiz/scala-oauth2-provider-example) | Example db schema and DataHandler.scala implementation for nulab scala-oauth2-provider |
 19 | [@agaoglu](https://github.com/agaoglu)/[**udp-kafka-bridge**](https://github.com/agaoglu/udp-kafka-bridge) | Simple daemon to pass UDP messages to Kafka |
 2 | [@ferhtaydn](https://github.com/ferhtaydn)/[**sbt-skeleton.g8**](https://github.com/ferhtaydn/sbt-skeleton.g8) | yet another giter8 template for sbt/scala projects |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 16 | [@lemiorhan](https://github.com/lemiorhan)/[**git-extras**](https://github.com/lemiorhan/git-extras) | Commands for extending your git experience |
@@ -465,17 +501,22 @@
 4 | [@can](https://github.com/can)/[**TeknikBlog.old**](https://github.com/can/TeknikBlog.old) | kişisel siteler için 19 jekyll şablonu | [:arrow_upper_right:](http://00010011.biz/ben)
 4 | [@nomadturk](https://github.com/nomadturk)/[**openresty-install**](https://github.com/nomadturk/openresty-install) | A bash script to install FFMpeg, ImageMagick, Php5.5 OpenResty Nginx with SPDY, ngx_pagespeed, RTMP support and extra modules. |
 2 | [@narzac](https://github.com/narzac)/[**dotfiles**](https://github.com/narzac/dotfiles) | bash aliases, scripts and miscellaneous config files. |
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 78 | [@yemeksepeti](https://github.com/yemeksepeti)/[**YSSegmentedControl**](https://github.com/yemeksepeti/YSSegmentedControl) | Android style segmented control written in swift.
 Fully customisable.  |
 25 | [@yemeksepeti](https://github.com/yemeksepeti)/[**EmoticonParticles**](https://github.com/yemeksepeti/EmoticonParticles) | create particle effects on UIView's with any character including emoticons |
 5 | [@yemeksepeti](https://github.com/yemeksepeti)/[**YSForms**](https://github.com/yemeksepeti/YSForms) | create customisable registration forms for ios quickly with validation. written in swift. |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@mkatircioglu](https://github.com/mkatircioglu)/[**dotfiles**](https://github.com/mkatircioglu/dotfiles) |  |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
