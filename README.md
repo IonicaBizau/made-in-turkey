@@ -251,6 +251,7 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+169 | [@trendyol](https://github.com/trendyol)/[**docker-shell**](https://github.com/trendyol/docker-shell) | docker-shell is an interactive shell for docker |
 22 | [@aligoren](https://github.com/aligoren)/[**gofret**](https://github.com/aligoren/gofret) | gofret is a Download Manager written in Go. | [:arrow_upper_right:](http://aligoren.github.io/gofret/)
 3 | [@muratsplat](https://github.com/muratsplat)/[**highLevelStat**](https://github.com/muratsplat/highLevelStat) | A basic Go package that gets informations of system status on only Gnu/Linux Os |
 3 | [@otsimo](https://github.com/otsimo)/[**simple-notifications**](https://github.com/otsimo/simple-notifications) | Push, Email, SMS notifications with multiple backends |
