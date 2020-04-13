@@ -251,7 +251,7 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-169 | [@trendyol](https://github.com/trendyol)/[**docker-shell**](https://github.com/trendyol/docker-shell) | docker-shell is an interactive shell for docker |
+226 | [@trendyol](https://github.com/trendyol)/[**docker-shell**](https://github.com/trendyol/docker-shell) | docker-shell is an interactive shell for docker |
 22 | [@aligoren](https://github.com/aligoren)/[**gofret**](https://github.com/aligoren/gofret) | gofret is a Download Manager written in Go. | [:arrow_upper_right:](http://aligoren.github.io/gofret/)
 5 | [@streetbyters](https://github.com/streetbyters)/[**agente**](https://github.com/streetbyters/agente) | Distributed simple and robust release management and monitoring system. | [:arrow_upper_right:](https://github.com/streetbyters/agente)
 3 | [@muratsplat](https://github.com/muratsplat)/[**highLevelStat**](https://github.com/muratsplat/highLevelStat) | A basic Go package that gets informations of system status on only Gnu/Linux Os |
