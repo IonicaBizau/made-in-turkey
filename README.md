@@ -294,6 +294,7 @@
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
  | 22 | [@aligoren](https://github.com/aligoren)/[**gofret**](https://github.com/aligoren/gofret) | gofret is a Download Manager written in Go. | [:arrow_upper_right:](http://aligoren.github.io/gofret/)
+5 | [@xis](https://github.com/xis)/[**baraka**](https://github.com/xis/baraka) | a tool for handling file uploads, simple and memory-friendly |
 3 | [@muratsplat](https://github.com/muratsplat)/[**highLevelStat**](https://github.com/muratsplat/highLevelStat) | A basic Go package that gets informations of system status on only Gnu/Linux Os |
 3 | [@otsimo](https://github.com/otsimo)/[**simple-notifications**](https://github.com/otsimo/simple-notifications) | Push, Email, SMS notifications with multiple backends |
 2 | [@fatihpense](https://github.com/fatihpense)/[**goritmic**](https://github.com/fatihpense/goritmic) | Google Codejam Solutions |
