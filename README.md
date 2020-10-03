@@ -277,7 +277,9 @@
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
+ | 23 | [@ferhatgec](https://github.com/ferhatgec)/[**Scrift**](https://github.com/ferhatgec/scrift) | Colorized CLI Shell project |
  | 7 | [@cagdasc](https://github.com/cagdasc)/[**BeagleBoneBlack-I2C**](https://github.com/cagdasc/BeagleBoneBlack-I2C) | BeagleBone Black I2C Library | [:arrow_upper_right:](http://www.expcodes.blogspot.com/)
+  | 7 | [@ferhatgec](https://github.com/ferhatgec)/[**FlaScript**](https://github.com/ferhatgec/flascript) | Programming language project. |
 2 | [@onuryurtturk](https://github.com/onuryurtturk)/[**MazeGame**](https://github.com/onuryurtturk/MazeGame) | Maze Game developed with C Programming Language |
 2 | [@bilalcorbacioglu](https://github.com/bilalcorbacioglu)/[**Secret-Sharing**](https://github.com/bilalcorbacioglu/Secret-Sharing) | Shamir's Secret Sharing(Image) Algorithm |  |
 
