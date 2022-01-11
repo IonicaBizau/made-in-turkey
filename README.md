@@ -223,6 +223,7 @@
  | --- | --- | --- | --- |
  | 2464 | [@aspnetboilerplate](https://github.com/aspnetboilerplate)/[**aspnetboilerplate**](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET MVC Boilerplate - Application Framework | [:arrow_upper_right:](http://www.aspnetboilerplate.com/)
 153 | [@emreeren](https://github.com/emreeren)/[**SambaPOS-3**](https://github.com/emreeren/SambaPOS-3) | Touch Screen Restaurant POS | [:arrow_upper_right:](http://sambapos.com)
+| 121 | [@enisn/AutoFilterer](https://github.com/enisn/AutoFilterer) | AutoFilterer is a mini filtering framework library for dotnet. The main purpose of the library is to generate LINQ expressions for Entities over DTOs automatically. Creating queries without writing any expression code is the most powerful feature that is provided. The first aim of AutoFilterer is to be compatible with Open API 3.0 Specifications, unlike oData & GraphQL. | - |
 35 | [@Jaex](https://github.com/Jaex)/[**ImageVisualizer**](https://github.com/Jaex/ImageVisualizer) | Visual Studio 2015 Image Visualizer |
 10 | [@detaybey](https://github.com/detaybey)/[**MimeBank**](https://github.com/detaybey/MimeBank) | A small file type checker for dotnet |
 9 | [@fatihboy](https://github.com/fatihboy)/[**RPI.GPIO**](https://github.com/fatihboy/RPI.GPIO) | Enterprisecoding Raspberry Pi C# GPIO library |
