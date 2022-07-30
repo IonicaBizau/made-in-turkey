@@ -502,6 +502,7 @@
 
  | :star2: | Name | Description | 🌍 |
  | --- | --- | --- | --- |
+ | 4500 | [@seyhunak](https://github.com/seyhunak)/[**twitter-bootstrap-rails**](https://github.com/seyhunak/twitter-bootstrap-rails) | Twitter Bootstrap for Rails 6, 5 and 4 Asset Pipeline |
  | 79 | [@marjinal1st](https://github.com/marjinal1st)/[**medium-editor-rails**](https://github.com/marjinal1st/medium-editor-rails) | Medium Editor integrated in Rails Asset Pipeline |
 56 | [@emrekutlu](https://github.com/emrekutlu)/[**paperclip-compressio…**](https://github.com/emrekutlu/paperclip-compression) | image compression processor for Paperclip |
 52 | [@sbagdat](https://github.com/sbagdat)/[**turkish_support**](https://github.com/sbagdat/turkish_support) | Turkish character support for core ruby methods.  |
