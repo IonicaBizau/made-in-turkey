@@ -372,7 +372,6 @@
  | 164 | [@o](https://github.com/o)/[**sitemap-php**](https://github.com/o/sitemap-php) | Library for generating Google sitemap XML files |
 29 | [@o](https://github.com/o)/[**crypt-php**](https://github.com/o/crypt-php) | Library for encrypting and decrypting data with symmetric encryption |
 25 | [@xsuperbug](https://github.com/xsuperbug)/[**g0yg0y**](https://github.com/xsuperbug/g0yg0y) |  |
-22 | [@ekrembk](https://github.com/ekrembk)/[**sanal-pos**](https://github.com/ekrembk/sanal-pos) | EST ve Posnet destekli sanal pos paketi. Desteklenen bankalar: Akbank, Finansbank, Halkbank, Türkiye İş Bankası, Anadolubank ve Yapı Kredi. | [:arrow_upper_right:](http://ekrembk.com)
 16 | [@xsuperbug](https://github.com/xsuperbug)/[**payloads**](https://github.com/xsuperbug/payloads) |  |
 14 | [@o](https://github.com/o)/[**rest-api-test-exampl…**](https://github.com/o/rest-api-test-example) | Testing REST API's with Guzzle (3|4) and PHPUnit |
 13 | [@muatik](https://github.com/muatik)/[**mysqlDiff**](https://github.com/muatik/mysqlDiff) | displays schema differences between two versions of same mysql database (I am embarrassed of this code.)  |
