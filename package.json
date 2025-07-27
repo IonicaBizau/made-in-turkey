@@ -912,7 +912,7 @@
               "[:arrow_upper_right:](http://www.aspnetboilerplate.com/)"
             ],
             [
-              "8370,
+              "8370",
               "[@abp](https://github.com/abpframework/abp)/[**abp**](https://github.com/abpframework/abp)",
               "ABP Framework - Web Application Framework for ASP.NET Core ",
               "[:arrow_upper_right:](https://abp.io/)"
@@ -2374,6 +2374,12 @@
               "[@tdgunes](https://github.com/tdgunes)/[**tdgsync**](https://github.com/tdgunes/tdgsync)",
               "Tracks your computer's internet ip, syncs it to a defined ftp server if anything changes. And also sends tweets about your computer's status! ",
               ""
+            ],
+            [
+              "1",
+              "[@madman38](https://github.com/madman38)/[**discord-archiver**](https://github.com/madman38/discord-archiver)",
+              "archive messages from discord servers",
+              "[:arrow_upper_right:](https://madman38.github.io/discord-chat-archive-viewer/)"
             ]
           ]
         }

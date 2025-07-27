@@ -497,6 +497,7 @@
 2 | [@halitalptekin](https://github.com/halitalptekin)/[**Araci**](https://github.com/halitalptekin/Araci) | My first PyQt application(Simple text searcher in file) |
 2 | [@emre](https://github.com/emre)/[**btcturk-ticker**](https://github.com/emre/btcturk-ticker) | bitcoin price ticker for your command line. |
 2 | [@tdgunes](https://github.com/tdgunes)/[**tdgsync**](https://github.com/tdgunes/tdgsync) | Tracks your computer's internet ip, syncs it to a defined ftp server if anything changes. And also sends tweets about your computer's status!  |  |
+1 | [@madman38](https://github.com/madman38)/[**discord-archiver**](https://github.com/madman38/discord-archiver) | archive messages from discord servers | [:arrow_upper_right:](https://madman38.github.io/discord-chat-archive-viewer/)
 
 ### Ruby #
 
