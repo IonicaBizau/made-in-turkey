@@ -113,6 +113,7 @@
 | 19 | [@rahmanusta](https://github.com/rahmanusta)/[**ssh-on-web**](https://github.com/rahmanusta/ssh-on-web) | SSH Web Client written in Java |  |
 | 18 | [@destan](https://github.com/destan)/[**github-label-manager**](https://github.com/destan/github-label-manager) | Manage and migrate your Github labels | [:arrow_upper_right:](destan.github.com/github-label-manager) |
 | 17 | [@yasaricli](https://github.com/yasaricli)/[**blaze**](https://github.com/yasaricli/blaze) | Easy reactive templating. | [:arrow_upper_right:]( http://yasaricli.github.io/blaze) |
+| 16 | [@YSamed](https://github.com/YSamed)/[**yalqen**](https://github.com/YSamed/yalqen) | Open-source Chromium-based developer browser for macOS with vertical tabs, a keyboard-first command bar and built-in ad blocking. | [:arrow_upper_right:](https://yalqen.com) |
 | 15 | [@eserozvataf](https://github.com/eserozvataf)/[**scabbia1**](https://github.com/eserozvataf/scabbia1) | Scabbia PHP Framework (1.x branch) |  |
 | 15 | [@f](https://github.com/f)/[**dont-fail-me-again**](https://github.com/f/dont-fail-me-again) | Node.js Error Handler by The Dark Side |  |
 | 14 | [@fatiherikli](https://github.com/fatiherikli)/[**glitchit.org**](https://github.com/fatiherikli/glitchit.org) | Gürültü patırtı as a service | [:arrow_upper_right:](http://glitchit.org) |
