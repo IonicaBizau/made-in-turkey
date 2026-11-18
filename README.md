@@ -181,6 +181,7 @@
 | 2 | [@fatihacet](https://github.com/fatihacet)/[**google-closure-libra…**](https://github.com/fatihacet/google-closure-library-bootstrap) | Bootstrap repo for Google's Closure Library and Tools. This repo is ready to develop web application using Google Closure Library, Closure Compiler, Closure DepsWriter, Closure Linter, Closure Templates and Closure Stylesheets. |  |
 | 2 | [@sercaneraslan](https://github.com/sercaneraslan)/[**angular-codepen-dire…**](https://github.com/sercaneraslan/angular-codepen-directive) | Angular Codepen Directive |  |
 |  | [@ArslantasM](https://github.com/ArslantasM)/[**Emergency_Management_and_Coordination_System**](https://github.com/ArslantasM/Emergency_Management_and_Coordination_System) | Open source disaster coordination platform for local authorities with role-based panel structure and Next.js architecture. SDG compliant, Apache 2.0 & BSD-3 licensed. | [:arrow_upper_right:](https://github.com/ArslantasM/Emergency_Management_and_Coordination_System) |
+|  | [@xenpian](https://github.com/xenpian)/[**gusgon.js**](https://github.com/xenpian/gusgon.js) | Official JavaScript / Node.js Bot SDK for GusGon voice, video, and community chat servers (Slash commands, Embeds, Interactive Buttons, Realtime Gateway & REST API). | [:arrow_upper_right:](https://gusgon.com) |
 
 ### Java #
 
